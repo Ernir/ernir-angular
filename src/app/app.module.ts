@@ -8,6 +8,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { MarginNoteComponent } from './fragments/margin-note/margin-note.component';
 import { RecipesComponent } from './pages/recipes/recipes.component';
 import { RecipeComponent } from './pages/recipes/recipe/recipe.component';
+import {MarkdownModule} from "ngx-markdown";
+import {HttpClient, HttpClientModule} from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { RecipeComponent } from './pages/recipes/recipe/recipe.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    MarkdownModule.forRoot({ loader: HttpClient })
   ],
   providers: [],
   bootstrap: [AppComponent]
