@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { InlineImageComponent } from './fragments/inline-image/inline-image.component';
 import { HomeComponent } from './pages/home/home.component';
 import { MarginNoteComponent } from './fragments/margin-note/margin-note.component';
+import { RecipesComponent } from './pages/recipes/recipes.component';
+import { RecipeComponent } from './pages/recipes/recipe/recipe.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     InlineImageComponent,
     HomeComponent,
-    MarginNoteComponent
+    MarginNoteComponent,
+    RecipesComponent,
+    RecipeComponent
   ],
   imports: [
     BrowserModule,

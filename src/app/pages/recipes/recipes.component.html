@@ -1,0 +1,4 @@
+<div *ngFor="let recipe of recipesList">
+  <h2><a routerLink="/recipe/{{recipe.slug}}" >{{recipe.name}}</a></h2>
+  <p>{{recipe.description}}</p>
+</div>
