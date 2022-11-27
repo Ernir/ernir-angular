@@ -14,6 +14,7 @@ export class RecipesService {
       {slug: "burgundarkassa", name: "Búrgundarkássa", description: "Rauðvín, nautakjöt og perlulaukar"},
       {slug: "carnitas", name: "Carnitas", description: "Hægeldað svínakjöt fyrir tortillur"},
       {slug: "kjotsosa", name: "Kjötsósa", description: "\"Bolognese\" kjötsósa fyrir hraðsuðupott"},
+      {slug: "lambahakkbollur", name: "Lambahakkbollur", description: "Lambahakkbollur í Napólí-sósu með halloumi"},
       {slug: "paella", name: "Paella", description: "Sjávarréttahrísgrjónamix"},
       {slug: "saetkartoflu-chorizo-chili", name: "Sætkartöflu chorizo chili", description: "Chili-kássa með sætum kartöflum og baunum"},
     ]
