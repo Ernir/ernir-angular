@@ -19,6 +19,7 @@ export class RecipesService {
       {slug: "paella", name: "Paella", description: "Sjávarréttahrísgrjónamix"},
       {slug: "saetkartoflu-chorizo-chili", name: "Sætkartöflu chorizo chili", description: "Chili-kássa með sætum kartöflum og baunum"},
       {slug: "sjaksjuka", name: "Sjaksjúka", description: "Grænt sjaksjúka með spínati og kúrbít"},
+      {slug: "truffluorzo", name: "Truffluorzo", description: "Orzo með trufflum og parmesan"},
     ]
   }
 
