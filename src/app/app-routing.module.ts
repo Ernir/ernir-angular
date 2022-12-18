@@ -6,7 +6,7 @@ import {RecipeComponent} from "./pages/recipes/recipe/recipe.component";
 
 const routes: Routes = [
   {
-    path: "recipe/:slug",
+    path: "recipes/:slug",
     component: RecipeComponent
   },
   {
