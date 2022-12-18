@@ -26,7 +26,7 @@ Gott að bera fram með kartöflumús, saxaðri steinselju, og rauðvínsflösku
 1. Pressið hvítlaukinn eða saxið smátt.
 1. Skerið sveppina í fjórðunga.
 
-## Eldun - fyrri skref
+## Eldun
 
 Fyrri skref eru nokkurn veginn eins hvort sem hraðsuðupottur eða venjulegur pottur er notaður. Munurinn er helst að sveppirnir eru soðnir skemur í venjulegum potti.
 
