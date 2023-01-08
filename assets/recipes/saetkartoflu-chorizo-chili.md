@@ -1,3 +1,8 @@
+---
+name: Sætkartöflu chorizo chili
+description: Chili-kássa með sætum kartöflum og baunum
+---
+
 # Sætkartöflu chorizo chili
 
 Chili-kássa með sætum kartöflum og baunum

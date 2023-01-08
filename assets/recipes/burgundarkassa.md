@@ -1,3 +1,8 @@
+---
+name: Búrgúndarkássa
+description: Rauðvín, nautakjöt og perlulaukar
+---
+
 # Búrgundarkássa
 
 Rauðvín, nautakjöt og perlulaukar.

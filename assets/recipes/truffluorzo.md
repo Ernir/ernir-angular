@@ -1,3 +1,8 @@
+---
+name: "Truffluorzo"
+description: "Orzo með trufflum og parmesan"
+---
+
 # Orzo með trufflum
 
 Orzo með trufflum og parmesan
