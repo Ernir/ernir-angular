@@ -1,3 +1,8 @@
+---
+name: Hnetukássa
+description: Hnetusmjörs- og sætkartöflukássa
+---
+
 # Hnetukássa
 
 Hnetusmjörs- og sætkartöflukássa

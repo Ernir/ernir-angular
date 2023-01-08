@@ -1,5 +1,4 @@
 ---
-slug: "truffluorzo"
 name: "Truffluorzo"
 description: "Orzo með trufflum og parmesan"
 ---

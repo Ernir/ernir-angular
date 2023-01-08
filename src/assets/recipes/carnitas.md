@@ -1,3 +1,8 @@
+---
+name: Carnitas
+description: Hægeldað svínakjöt fyrir tortillur
+---
+
 # Carnitas
 
 Hægeldað svínakjöt fyrir tortillur
