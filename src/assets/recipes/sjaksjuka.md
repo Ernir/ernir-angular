@@ -1,3 +1,8 @@
+---
+name: Sjaksjúka
+description: Grænt sjaksjúka með spínati og kúrbít
+---
+
 # Sjaksjúka
 
 Grænt sjaksjúka með spínati og kúrbít

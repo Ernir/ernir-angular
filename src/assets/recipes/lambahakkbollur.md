@@ -1,3 +1,8 @@
+---
+name: Lambahakkbollur
+description: Lambahakkbollur í Napólí-sósu með halloumi
+---
+
 # Lambahakkbollur
 
 Lambahakkbollur í Napólí-sósu með halloumi

@@ -1,3 +1,8 @@
+---
+name: Kjötsósa
+description: Ragú fyrir hraðsuðupott
+---
+
 # Kjötsósa
 
 "Bolognese" kjötsósa fyrir hraðsuðupott
