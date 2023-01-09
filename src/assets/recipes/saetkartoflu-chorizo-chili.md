@@ -9,20 +9,20 @@ Chili-kássa með sætum kartöflum og baunum
 
 ## Hráefni
 
-* 220 g chorizo pylsa
-* 1 stk laukur
-* 500 g sæt kartafla
-* 2 geirar hvítlaukur
-* 400 g dósatómatar
-* 400 g svartar baunir í dós
-* 400 g nýrnabaunir í dós
-* 150 g tómatpúrra
-* 1 msk chiliduft
-* 1 tsk kúmínduft
-* 1 stk oreganó
-* 300 mL vatn
-* 1 búnt ferskur kóríander
-* 1 tsk paprikukrydd
+- 220 g chorizo pylsa
+- 1 stk laukur
+- 500 g sæt kartafla
+- 2 geirar hvítlaukur
+- 400 g dósatómatar
+- 400 g svartar baunir í dós
+- 400 g nýrnabaunir í dós
+- 150 g tómatpúrra
+- 1 msk chiliduft
+- 1 tsk kúmínduft
+- 1 stk oreganó
+- 300 mL vatn
+- 1 búnt ferskur kóríander
+- 1 tsk paprikukrydd
 
 ## Undirbúningur
 

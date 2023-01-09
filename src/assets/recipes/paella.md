@@ -9,19 +9,19 @@ Sjávarréttahrísgrjónamix
 
 ## Hráefni
 
-* 2 msk ólífuolía
-* 1 stk laukur
-* 2 geirar hvítlaukur
-* 1 stk paprika
-* 0.5 msk túrmerik
-* 1 tsk reykt paprikukrydd
-* 0.25 tsk cayenne pipar
-* 500 mL hrísgrjón, ósoðin
-* 300 mL grænar baunir, frosnar
-* 250 g sjávarréttir
-* 850 mL kjúklingasoð
-* 150 mL hvítvín
-* 2 þræðir saffran
+- 2 msk ólífuolía
+- 1 stk laukur
+- 2 geirar hvítlaukur
+- 1 stk paprika
+- 0.5 msk túrmerik
+- 1 tsk reykt paprikukrydd
+- 0.25 tsk cayenne pipar
+- 500 mL hrísgrjón, ósoðin
+- 300 mL grænar baunir, frosnar
+- 250 g sjávarréttir
+- 850 mL kjúklingasoð
+- 150 mL hvítvín
+- 2 þræðir saffran
 
 ## Undirbúningur
 

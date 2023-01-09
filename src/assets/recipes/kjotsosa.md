@@ -9,17 +9,17 @@ description: Ragú fyrir hraðsuðupott
 
 ## Hráefni
 
-* 250 g Nautahakk
-* 250 g Grísahakk
-* 1 stk Laukur
-* 1 stk Sellerístöngull
-* 50 g Pancetta
-* 2 msk Tómatpúrra
-* 1 dL Vermút
-* 1 dós Dósatómatar
-* 1 stk Lárviðarlauf
-* 2 stk Hvítlauksrif
-* 1 msk Oregano
+- 250 g Nautahakk
+- 250 g Grísahakk
+- 1 stk Laukur
+- 1 stk Sellerístöngull
+- 50 g Pancetta
+- 2 msk Tómatpúrra
+- 1 dL Vermút
+- 1 dós Dósatómatar
+- 1 stk Lárviðarlauf
+- 2 stk Hvítlauksrif
+- 1 msk Oregano
 
 ## Undirbúningur
 

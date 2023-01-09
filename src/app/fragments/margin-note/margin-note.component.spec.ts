@@ -8,9 +8,8 @@ describe('MarginNoteComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ MarginNoteComponent ]
-    })
-    .compileComponents();
+      declarations: [MarginNoteComponent],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(MarginNoteComponent);
     component = fixture.componentInstance;

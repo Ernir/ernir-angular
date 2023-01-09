@@ -9,14 +9,14 @@ Lambahakkbollur í Napólí-sósu með halloumi
 
 ## Hráefni
 
-* 250g lambahakk
-* 250g halloumi
-* 300g Napólí-sósa (napolitana)
-* 1/2 stk kúrbítur
-* 1 rauð paprika
-* 4 msk kúmín
-* 200g orzo
-* Salt og pipar
+- 250g lambahakk
+- 250g halloumi
+- 300g Napólí-sósa (napolitana)
+- 1/2 stk kúrbítur
+- 1 rauð paprika
+- 4 msk kúmín
+- 200g orzo
+- Salt og pipar
 
 ## Undirbúningur
 

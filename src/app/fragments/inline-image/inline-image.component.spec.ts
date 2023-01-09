@@ -8,9 +8,8 @@ describe('InlineImageComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ InlineImageComponent ]
-    })
-    .compileComponents();
+      declarations: [InlineImageComponent],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(InlineImageComponent);
     component = fixture.componentInstance;

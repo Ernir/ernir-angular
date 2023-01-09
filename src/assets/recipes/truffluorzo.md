@@ -9,13 +9,13 @@ Orzo með trufflum og parmesan
 
 ## Hráefni
 
-* 200g orzo
-* 3 hvítlauksgeirar
-* 4 msk trufflutapenade
-* 400g kastaníusveppir
-* 200g sýrður rjómi
-* 80g parmesanflögur
-* Salt og pipar
+- 200g orzo
+- 3 hvítlauksgeirar
+- 4 msk trufflutapenade
+- 400g kastaníusveppir
+- 200g sýrður rjómi
+- 80g parmesanflögur
+- Salt og pipar
 
 ## Aðferð
 

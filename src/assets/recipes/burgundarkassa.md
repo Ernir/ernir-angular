@@ -9,24 +9,24 @@ Rauðvín, nautakjöt og perlulaukar.
 
 ## Hráefni
 
-* 1 klípa smjör
-* 200g beikonbitar
-* 500g nautakjöt
-* 2 msk hveiti
-* 4 hvítlauksgeirar
-* 200g perlulaukar eða litlir skalottulaukar
-* 1 stk gulrót, stór
-* 500mL rauðvín
-* 1 dós (um 140g) tómatpúrra
-* 250g kastaníusveppir
-* Lárviðarlauf, timjan og rósmarín, salt og pipar eftir smekk. 
+- 1 klípa smjör
+- 200g beikonbitar
+- 500g nautakjöt
+- 2 msk hveiti
+- 4 hvítlauksgeirar
+- 200g perlulaukar eða litlir skalottulaukar
+- 1 stk gulrót, stór
+- 500mL rauðvín
+- 1 dós (um 140g) tómatpúrra
+- 250g kastaníusveppir
+- Lárviðarlauf, timjan og rósmarín, salt og pipar eftir smekk.
 
 Gott að bera fram með kartöflumús, saxaðri steinselju, og rauðvínsflösku til viðbótar.
 
 ## Undirbúningur
 
 1. Fjarlægið hýðið af perlulaukunum en ekki skera þá niður að öðru leyti. Þetta tekur tíma.
-1. Skerið nautakjötið í gúllasstærð. 
+1. Skerið nautakjötið í gúllasstærð.
 1. Saxið gulrótina í stóra bita.
 1. Pressið hvítlaukinn eða saxið smátt.
 1. Skerið sveppina í fjórðunga.
