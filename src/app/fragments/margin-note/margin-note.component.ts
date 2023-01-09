@@ -1,9 +1,9 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'margin-note',
-  templateUrl: './margin-note.component.html',
-  styleUrls: ['./margin-note.component.css'],
+  selector: "margin-note",
+  templateUrl: "./margin-note.component.html",
+  styleUrls: ["./margin-note.component.css"]
 })
 export class MarginNoteComponent implements OnInit {
   @Input() id: string;

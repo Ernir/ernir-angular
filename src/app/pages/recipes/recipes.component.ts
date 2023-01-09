@@ -1,12 +1,12 @@
-import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
-import { RecipesService } from './recipes.service';
-import { Recipe } from './models/recipe';
+import { Component, OnInit } from "@angular/core";
+import { Router } from "@angular/router";
+import { RecipesService } from "./recipes.service";
+import { Recipe } from "./models/recipe";
 
 @Component({
-  selector: 'app-recipes',
-  templateUrl: './recipes.component.html',
-  styleUrls: ['./recipes.component.css'],
+  selector: "app-recipes",
+  templateUrl: "./recipes.component.html",
+  styleUrls: ["./recipes.component.css"]
 })
 export class RecipesComponent implements OnInit {
   recipesList: Recipe[];
@@ -18,6 +18,6 @@ export class RecipesComponent implements OnInit {
   }
 
   openRecipe(path: string) {
-    this.router.navigate(['recipe', path]);
+    this.router.navigate(["recipe", path]);
   }
 }

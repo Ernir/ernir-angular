@@ -1,14 +1,14 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed } from "@angular/core/testing";
 
-import { InlineImageComponent } from './inline-image.component';
+import { InlineImageComponent } from "./inline-image.component";
 
-describe('InlineImageComponent', () => {
+describe("InlineImageComponent", () => {
   let component: InlineImageComponent;
   let fixture: ComponentFixture<InlineImageComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [InlineImageComponent],
+      declarations: [InlineImageComponent]
     }).compileComponents();
 
     fixture = TestBed.createComponent(InlineImageComponent);
@@ -16,7 +16,7 @@ describe('InlineImageComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it("should create", () => {
     expect(component).toBeTruthy();
   });
 });

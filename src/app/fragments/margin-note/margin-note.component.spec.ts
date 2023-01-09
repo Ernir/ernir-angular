@@ -1,14 +1,14 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed } from "@angular/core/testing";
 
-import { MarginNoteComponent } from './margin-note.component';
+import { MarginNoteComponent } from "./margin-note.component";
 
-describe('MarginNoteComponent', () => {
+describe("MarginNoteComponent", () => {
   let component: MarginNoteComponent;
   let fixture: ComponentFixture<MarginNoteComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [MarginNoteComponent],
+      declarations: [MarginNoteComponent]
     }).compileComponents();
 
     fixture = TestBed.createComponent(MarginNoteComponent);
@@ -16,7 +16,7 @@ describe('MarginNoteComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it("should create", () => {
     expect(component).toBeTruthy();
   });
 });
