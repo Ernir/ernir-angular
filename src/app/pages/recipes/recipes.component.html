@@ -1,10 +1,12 @@
 <article>
   <section>
-  <h1><a routerLink="/recipes/">Uppskriftir</a></h1>
-  <div *ngFor="let recipe of recipesList">
-    <h2><a routerLink="/recipes/{{recipe.slug}}" >{{recipe.name}}</a></h2>
-    <p>{{recipe.description}}</p>
-  </div>
+    <h1><a routerLink="/recipes/">Uppskriftir</a></h1>
+    <div *ngFor="let recipe of recipesList">
+      <h2>
+        <a routerLink="/recipes/{{ recipe.slug }}">{{ recipe.name }}</a>
+      </h2>
+      <p>{{ recipe.description }}</p>
+    </div>
   </section>
   <section><a routerLink="/">Til baka á forsíðu</a></section>
 </article>

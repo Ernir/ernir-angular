@@ -1,16 +1,14 @@
-import {Injectable} from '@angular/core';
-import {Recipe} from "./models/recipe";
-import {RecipeFile} from "./models/recipeFile";
+import { Injectable } from "@angular/core";
+import { Recipe } from "./models/recipe";
+import { RecipeFile } from "./models/recipeFile";
 // @ts-ignore
-import recipesJson from '../../../assets/recipes/recipes.json'
+import recipesJson from "../../../assets/recipes/recipes.json";
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: "root"
 })
 export class RecipesService {
-
-  constructor() {
-  }
+  constructor() {}
 
   findEnabledRecipes(): Recipe[] {
     return recipesJson.map((recipeFile: RecipeFile) => RecipesService.toRecipe(recipeFile));
@@ -23,8 +21,11 @@ export class RecipesService {
     const slug = pathComponents[pathComponents.length - 1];
     const content = recipeFile.content;
     return {
-      name: name, description: description, slug: slug, content: content
-    }
+      name: name,
+      description: description,
+      slug: slug,
+      content: content
+    };
   }
 
   getRecipeBySlug(slug: String): Recipe {

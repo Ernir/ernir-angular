@@ -17,3 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Deploy
 
 Run `npm run deploy` to collect static material and deploy the current branch to [ernir.net](https://ernir.net/). Deployment uses [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages).
+
+## Format
+
+Run `npx prettier --write .` to format the codebase.
