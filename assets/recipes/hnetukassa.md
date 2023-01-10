@@ -9,20 +9,20 @@ Hnetusmjörs- og sætkartöflukássa
 
 ## Hráefni
 
-* 1 msk steikingarolía
-* 4 hvítlauksgeirar
-* 1 lítil engiferrót
-* 1/2 kg sætar kartöflur
-* 1 laukur
-* 1 msk kúmín
-* 1 msk paprikukrydd
-* 150 mL tómatpúrra
-* 150 mL hnetusmjör
-* 1500 mL grænmetissoð
-* 150g grænkál
-* Salt og pipar
-* Kóríander til hliðar
-* Jarðhnetur til hliðar
+- 1 msk steikingarolía
+- 4 hvítlauksgeirar
+- 1 lítil engiferrót
+- 1/2 kg sætar kartöflur
+- 1 laukur
+- 1 msk kúmín
+- 1 msk paprikukrydd
+- 150mL tómatpúrra
+- 150mL hnetusmjör
+- 1500mL grænmetissoð
+- 150g grænkál
+- Salt og pipar
+- Kóríander til hliðar
+- Jarðhnetur til hliðar
 
 ## Undirbúningur
 

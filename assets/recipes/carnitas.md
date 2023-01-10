@@ -9,15 +9,15 @@ Hægeldað svínakjöt fyrir tortillur
 
 ## Hráefni
 
-* 1 kg svínaöxl
-* 2 tsk salt
-* 1 tsk pipar
-* 1 stk laukur
-* 4 geirar hvítlaukur
-* 250 mL appelsínusafi
-* 1 msk oreganó
-* 2 tsk kúmín
-* 1 msk ólífuolía
+- 1 kg svínaöxl
+- 2 tsk salt
+- 1 tsk pipar
+- 1 stk laukur
+- 4 geirar hvítlaukur
+- 250 mL appelsínusafi
+- 1 msk oreganó
+- 2 tsk kúmín
+- 1 msk ólífuolía
 
 ## Aðferð
 
