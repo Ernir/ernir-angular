@@ -16,9 +16,9 @@ Hnetusmjörs- og sætkartöflukássa
 - 1 laukur
 - 1 msk kúmín
 - 1 msk paprikukrydd
-- 150 mL tómatpúrra
-- 150 mL hnetusmjör
-- 1500 mL grænmetissoð
+- 150mL tómatpúrra
+- 150mL hnetusmjör
+- 1500mL grænmetissoð
 - 150g grænkál
 - Salt og pipar
 - Kóríander til hliðar

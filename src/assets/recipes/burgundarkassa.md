@@ -42,7 +42,7 @@ Fyrri skref eru nokkurn veginn eins hvort sem hraðsuðupottur eða venjulegur p
 1. Brúnið kjötið í beikonfitunni og smjörinu sem eftir urðu í pottinum, um 3-4 mínútur. Dreifið hveitinu svo yfir.
 1. Bætið hvítlauknum, perlulaukunum og gulrótinni við og steikið í 3-4 mínútur. Ef gumsið er byrjar að brenna við má byrja að bæta við víninu.
 1. Bætið víni og tómatpúrru við og skrapið allt sem hefur brúnast upp af botninum.
-1. Bætið beikonbitum (aftur) við ásamt kryddjurtum, salt og pipar, og hrærið öllu saman.
+1. Bætið beikonbitum aftur við ásamt kryddjurtum, salt og pipar, og hrærið öllu saman.
 
 ### Suða - hraðsuðupottur
 
