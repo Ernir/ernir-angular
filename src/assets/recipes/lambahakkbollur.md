@@ -1,9 +1,9 @@
 ---
-name: Lambahakkbollur
+name: Lambahakkbollur með orzo
 description: Lambahakkbollur í Napólí-sósu með halloumi
 ---
 
-# Lambahakkbollur
+# Lambahakkbollur með Orzo
 
 Lambahakkbollur í Napólí-sósu með halloumi
 

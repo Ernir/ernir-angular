@@ -9,17 +9,17 @@ description: Ragú fyrir hraðsuðupott
 
 ## Hráefni
 
-- 250 g Nautahakk
-- 250 g Grísahakk
-- 1 stk Laukur
-- 1 stk Sellerístöngull
-- 50 g Pancetta
-- 2 msk Tómatpúrra
-- 1 dL Vermút
-- 1 dós Dósatómatar
-- 1 stk Lárviðarlauf
-- 2 stk Hvítlauksrif
-- 1 msk Oregano
+- 250 g nautahakk
+- 250 g grísahakk
+- 1 stk laukur
+- 1 stk sellerístöngull
+- 50 g pancetta
+- 2 msk tómatpúrra
+- 1 dL vermút
+- 1 dós dósatómatar
+- 1 stk lárviðarlauf
+- 2 stk hvítlauksrif
+- 1 msk oregano
 
 ## Undirbúningur
 
@@ -31,6 +31,6 @@ description: Ragú fyrir hraðsuðupott
 1. Steikið hakkið í 8 mínútur í hraðsuðupotti á steikingarstillingu
 1. Bætið við lauk, sellerí og pencettu, steikið í 5 mínútur
 1. Bætið við tómatpúrru og blandið vel
-1. Bætið við vermúti og skrapið hvað sem hefur brúnast (vonand i ekki brunnið) við botninn upp
+1. Bætið við vermúti og skrapið hvað sem hefur brúnast (vonandi ekki brunnið) við botninn upp
 1. Bætið við dósatómötum, hrærið, læsið pottinum og þrýstisjóðið í 30 mínútur
 1. Leyfið þrýstingnum að fara af í 10 mín (kjörið að sjóða pasta á meðan)
