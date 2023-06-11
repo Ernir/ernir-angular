@@ -11,7 +11,8 @@ const routes: Routes = [
   },
   {
     path: "recipes",
-    component: RecipesComponent
+    component: RecipesComponent,
+    title: "Ernir.net - Uppskriftir"
   },
   {
     path: "**",

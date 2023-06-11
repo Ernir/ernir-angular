@@ -8,6 +8,7 @@ import { Component, Input, OnInit } from "@angular/core";
 export class InlineImageComponent implements OnInit {
   @Input() file: string;
   @Input() extension?: string = ".svg";
+  @Input() title?: string = undefined;
 
   constructor() {}
 
