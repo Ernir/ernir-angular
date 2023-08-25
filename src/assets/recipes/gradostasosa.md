@@ -10,10 +10,10 @@ description: Ídýfa fyrir kjúklingavængi eða skorið grænmeti
 ## Hráefni
 
 - 125g gráðostur
-- 100mL sýrður rjómi
-- 50mL mæjónes
-- 1msk mjólk
-- 1msk sítrónusafi
+- 100 mL sýrður rjómi
+- 50 mL mæjónes
+- 1 msk mjólk
+- 1 msk sítrónusafi
 - Smá salt og pipar
 
 ## Aðferð
