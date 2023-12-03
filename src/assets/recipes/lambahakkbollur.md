@@ -15,8 +15,11 @@ Lambahakkbollur í Napólí-sósu með halloumi
 - 1/2 stk kúrbítur
 - 1 rauð paprika
 - 4 msk kúmín
-- 200g orzo
 - Salt og pipar
+
+### Meðlæti
+
+- 200g orzo
 
 ## Undirbúningur
 
