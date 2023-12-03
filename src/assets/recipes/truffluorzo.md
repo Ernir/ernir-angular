@@ -24,4 +24,3 @@ Orzo með trufflum og parmesan
 3. Steikið hvítlaukinn í eina mínútu í olíunni á meðalhita. Bætið sveppunum svo við og steikið þar til þeir spýta út vökvanum (um 5 mínútur).
 4. Hrærið trufflutapenadeinu, sýrða rjómanum og parmesaninum saman við sveppina.
 5. Hrærið orzoinu og vökvanum saman við. Náið hitanum aftur upp meðan öllu er blandað saman.
-
