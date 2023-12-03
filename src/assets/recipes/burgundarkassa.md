@@ -21,6 +21,8 @@ Rauðvín, nautakjöt og perlulaukar.
 - 250g kastaníusveppir
 - Lárviðarlauf, timjan og rósmarín, salt og pipar eftir smekk.
 
+### Meðlæti
+
 Gott að bera fram með kartöflumús, saxaðri steinselju, og rauðvínsflösku til viðbótar.
 
 ## Undirbúningur
