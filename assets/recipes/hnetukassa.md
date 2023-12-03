@@ -21,8 +21,11 @@ Hnetusmjörs- og sætkartöflukássa
 - 1500mL grænmetissoð
 - 150g grænkál
 - Salt og pipar
-- Kóríander til hliðar
-- Jarðhnetur til hliðar
+
+### Meðlæti
+
+- Ferskur kóríander
+- Salthnetur eða ósaltaðar jarðhnetur
 
 ## Undirbúningur
 

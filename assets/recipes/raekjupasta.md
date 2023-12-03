@@ -10,7 +10,7 @@ Pasta með rækjum fyrir hraðsuðupott
 ## Hráefni
 
 - 200g þurrt pasta (t.d. spaghettí)
-- 450g millistórar rækjur
+- 300g millistórar rækjur
 - 500 mL kjúklingasoð
 - 60 mL hvítvín
 - 2 msk sítrónusafi
@@ -18,6 +18,9 @@ Pasta með rækjum fyrir hraðsuðupott
 - 2 msk smjör
 - 4 hvítlauksgeirar
 - Smá salt
+
+### Meðlæti
+
 - Fínn parmesanostur
 - Steinselja
 

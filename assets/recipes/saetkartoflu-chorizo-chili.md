@@ -21,8 +21,12 @@ Chili-kássa með sætum kartöflum og baunum
 - 1 tsk kúmínduft
 - 1 stk oreganó
 - 300mL vatn
-- 1 búnt ferskur kóríander
 - 1 tsk paprikukrydd
+
+### Meðlæti
+
+- Ferskur kóríander
+- Rifinn ostur
 
 ## Undirbúningur
 
@@ -40,4 +44,4 @@ Chili-kássa með sætum kartöflum og baunum
 
 1. Meðan sætu kartöflurnar steikjast, sigtið vökvann frá baununum. Bætið baununum út í pottinn ásamt dósatómötunum, tómatpúrrunni, chiliduftinu, kúmíninu, oreganoinu, paprikukryddinu og vatninu. Hrærið öllu saman og leyfið suðunni að koma upp. Setjið lok á pottinn og leyfið kássunni að krauma í minnst hálftíma, eða þar sætu kartöflurnar eru orðnar vel mjúkar.
 
-1. Berið fram með ferskum kóríander.
+1. Berið fram með ferskum kóríander og rifnum osti.
