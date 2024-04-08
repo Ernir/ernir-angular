@@ -1,6 +1,6 @@
 # ErnirAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+Ernir's personal homepage, Angular edition.
 
 ## Development server
 
