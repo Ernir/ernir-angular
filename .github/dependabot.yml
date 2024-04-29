@@ -9,6 +9,7 @@ updates:
         applies-to: version-updates
         patterns:
           - "@angular*"
+          - "rxjs"
         update-types:
           - "minor"
           - "patch"
@@ -16,6 +17,7 @@ updates:
         applies-to: security-updates
         patterns:
           - "@angular*"
+          - "rxjs"
         update-types:
           - "patch"
           - "minor"
