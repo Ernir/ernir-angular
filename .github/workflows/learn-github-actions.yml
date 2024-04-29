@@ -1,0 +1,16 @@
+name: basic-build
+run-name: ${{ github.actor }} is building ErnirAngular
+on: [push]
+jobs:
+  run-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+      - run: npm install
+      - run: npm run collect-recipes
+      - run: npm run build
