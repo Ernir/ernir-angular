@@ -1,6 +1,10 @@
 ---
 name: "Truffluorzo"
 description: "Orzo með trufflum og parmesan"
+tags:
+  - Fljótlegt
+  - Grænmetis
+  - Ostur
 ---
 
 # Orzo með trufflum

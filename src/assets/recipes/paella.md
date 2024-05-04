@@ -1,6 +1,8 @@
 ---
 name: Paella
 description: Sjávarréttahrísgrjónamix
+tags:
+  - Sjávarréttir
 ---
 
 # Paella

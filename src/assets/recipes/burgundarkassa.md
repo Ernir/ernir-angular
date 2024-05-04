@@ -1,6 +1,11 @@
 ---
 name: Búrgúndarkássa
 description: Rauðvín, nautakjöt og perlulaukar
+tags: 
+  - Hraðsuðupottur
+  - Kássa
+  - Langur tími
+  - Nautakjöt
 ---
 
 # Búrgundarkássa

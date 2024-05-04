@@ -3,4 +3,5 @@ export interface Recipe {
   description: string;
   slug: string;
   content: string;
+  tags: string[];
 }

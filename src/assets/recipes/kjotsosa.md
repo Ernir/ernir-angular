@@ -1,6 +1,11 @@
 ---
 name: Kjötsósa
 description: Ragú fyrir hraðsuðupott
+tags:
+  - Hraðsuðupottur
+  - Langur tími
+  - Nautakjöt
+  - Svínakjöt
 ---
 
 # Kjötsósa

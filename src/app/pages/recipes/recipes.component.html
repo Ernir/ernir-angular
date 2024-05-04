@@ -1,6 +1,10 @@
 <article>
   <section>
     <h1><a routerLink="/recipes/">Uppskriftir</a></h1>
+    <p>
+      <span *ngFor="let tag of recipeTags; last as isLast">{{ tag.name }} ({{ tag.count }})<span
+        *ngIf="!isLast">, </span></span>
+    </p>
     <div *ngFor="let recipe of recipesList">
       <h2>
         <a routerLink="/recipes/{{ recipe.slug }}">{{ recipe.name }}</a>
