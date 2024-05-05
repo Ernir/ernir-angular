@@ -12,7 +12,11 @@ export class RecipesService {
   constructor() {}
 
   findRecipes(): Recipe[] {
-    return recipesJson.map((recipeFile: RecipeFile) => RecipesService.toRecipe(recipeFile));
+    const recipes: Recipe[] = recipesJson.map((recipeFile: RecipeFile) =>
+      RecipesService.toRecipe(recipeFile)
+    );
+    recipes.sort((a, b) => a.name.localeCompare(b.name));
+    return recipes;
   }
 
   findActiveRecipes(tagName: string): Recipe[] {
