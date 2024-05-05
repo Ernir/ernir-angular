@@ -51,7 +51,7 @@ export class RecipesService {
     for (let [name, count] of tagCounts) {
       recipeTags.push({ name: name, count: count });
     }
-    return recipeTags;
+    return recipeTags.sort((a, b) => a.name.localeCompare(b.name));
   }
 
   getRecipeBySlug(slug: String): Recipe {
