@@ -16,7 +16,10 @@ export class RecipeComponent implements OnInit {
   @Input() slug: string;
   @Input() content: string;
 
-  constructor(private activatedRoute: ActivatedRoute, private recipeService: RecipesService) {}
+  constructor(
+    private activatedRoute: ActivatedRoute,
+    private recipeService: RecipesService
+  ) {}
 
   ngOnInit(): void {
     this.activatedRoute.paramMap.forEach(route => {

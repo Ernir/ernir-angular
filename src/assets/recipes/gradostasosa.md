@@ -1,6 +1,10 @@
 ---
 name: Gráðostasósa
 description: Ídýfa fyrir kjúklingavængi eða skorið grænmeti
+tags:
+  - Fljótlegt
+  - Grænmetis
+  - Ostur
 ---
 
 # Gráðostasósa

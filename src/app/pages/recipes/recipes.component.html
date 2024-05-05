@@ -1,7 +1,16 @@
 <article>
   <section>
     <h1><a routerLink="/recipes/">Uppskriftir</a></h1>
-    <div *ngFor="let recipe of recipesList">
+    <p>
+      <span *ngFor="let tag of recipeTags; last as isLast; first as isFirst">
+        <a routerLink="/recipes" [queryParams]="{ tag: tag.name.toLowerCase() }">{{
+          isFirst ? tag.name : tag.name.toLowerCase()
+        }}</a>
+        ({{ tag.count }})<span *ngIf="!isLast">, </span>
+      </span>
+    </p>
+    <p><a routerLink="/recipes/">Allar</a> ({{ allRecipes.length }})</p>
+    <div *ngFor="let recipe of recipesToDisplay">
       <h2>
         <a routerLink="/recipes/{{ recipe.slug }}">{{ recipe.name }}</a>
       </h2>

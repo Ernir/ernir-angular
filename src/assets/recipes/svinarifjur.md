@@ -1,6 +1,9 @@
 ---
 name: Þurrkryddaðar svínarifjur
 description: Svínarifjur eldaðar í ofni
+tags:
+  - Svínakjöt
+  - Langur tími
 ---
 
 # Þurrkryddaðar svínarifjur

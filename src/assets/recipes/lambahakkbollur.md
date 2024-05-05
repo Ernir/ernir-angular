@@ -1,11 +1,13 @@
 ---
 name: Lambahakkbollur með orzo
 description: Lambahakkbollur í Napólí-sósu með halloumi
+tags:
+  - Lambakjöt
 ---
 
 # Lambahakkbollur með Orzo
 
-Lambahakkbollur í Napólí-sósu með halloumi
+Lambahakkbollur í tómat-sósu með halloumi
 
 ## Hráefni
 

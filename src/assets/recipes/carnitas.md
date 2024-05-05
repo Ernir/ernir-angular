@@ -1,6 +1,10 @@
 ---
 name: Carnitas
 description: Svínakjöt fyrir tortillur í þrýstipotti
+tags:
+  - Hraðsuðupottur
+  - Langur tími
+  - Svínakjöt
 ---
 
 # Carnitas
