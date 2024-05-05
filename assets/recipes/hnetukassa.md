@@ -1,6 +1,9 @@
 ---
 name: Hnetukássa
 description: Hnetusmjörs- og sætkartöflukássa
+tags:
+  - Kássa
+  - Vegan
 ---
 
 # Hnetukássa
