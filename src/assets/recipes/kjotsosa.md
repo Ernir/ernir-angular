@@ -26,6 +26,8 @@ tags:
 - 2 stk hvítlauksrif
 - 1 msk oregano
 
+Spaghettí.
+
 ## Undirbúningur
 
 1. Saxið laukinn, selleríið og pancettuna (hægt að gera meðan hakkið steikist)
@@ -39,3 +41,5 @@ tags:
 1. Bætið við vermúti og skrapið hvað sem hefur brúnast (vonandi ekki brunnið) við botninn upp
 1. Bætið við dósatómötum, hrærið, læsið pottinum og þrýstisjóðið í 30 mínútur
 1. Leyfið þrýstingnum að fara af í 10 mín (kjörið að sjóða pasta á meðan)
+
+Berið fram með spaghettíi.

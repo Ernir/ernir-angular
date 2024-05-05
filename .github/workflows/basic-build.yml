@@ -10,7 +10,7 @@ jobs:
           submodules: recursive
       - uses: actions/setup-node@v4
         with:
-          node-version: 'latest'
+          node-version: "latest"
       - run: npm install
       - run: npm run collect-recipes
       - run: npm run build

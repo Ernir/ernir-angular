@@ -3,6 +3,7 @@ name: Sætkartöflu chorizo chili
 description: Chili-kássa með sætum kartöflum og baunum
 tags:
   - Svínakjöt
+  - Kássa
 ---
 
 # Sætkartöflu chorizo chili

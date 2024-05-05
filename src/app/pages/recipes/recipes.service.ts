@@ -9,11 +9,16 @@ import { RecipeTag } from "./models/recipetag";
   providedIn: "root"
 })
 export class RecipesService {
-  constructor() {
+  constructor() {}
+
+  findRecipes(): Recipe[] {
+    return recipesJson.map((recipeFile: RecipeFile) => RecipesService.toRecipe(recipeFile));
   }
 
-  findEnabledRecipes(): Recipe[] {
-    return recipesJson.map((recipeFile: RecipeFile) => RecipesService.toRecipe(recipeFile));
+  findActiveRecipes(tagName: string): Recipe[] {
+    return this.findRecipes().filter(recipe =>
+      recipe.tags.map(tag => tag.toLowerCase()).includes(tagName.toLowerCase())
+    );
   }
 
   private static toRecipe(recipeFile: RecipeFile): Recipe {
@@ -34,16 +39,13 @@ export class RecipesService {
 
   findRecipeTags(): RecipeTag[] {
     let tagCounts = new Map<string, number>();
-    this.findEnabledRecipes().forEach(
-      recipe => recipe.tags.forEach(
-        tag => {
-          let existingTag = tagCounts.get(tag);
-          if (existingTag) {
-            tagCounts.set(tag, ++existingTag);
-          } else
-            tagCounts.set(tag, 1);
-        }
-      )
+    this.findRecipes().forEach(recipe =>
+      recipe.tags.forEach(tag => {
+        let existingTag = tagCounts.get(tag);
+        if (existingTag) {
+          tagCounts.set(tag, ++existingTag);
+        } else tagCounts.set(tag, 1);
+      })
     );
     let recipeTags: RecipeTag[] = [];
     for (let [name, count] of tagCounts) {
@@ -53,6 +55,6 @@ export class RecipesService {
   }
 
   getRecipeBySlug(slug: String): Recipe {
-    return this.findEnabledRecipes().filter(recipe => recipe.slug === slug)[0];
+    return this.findRecipes().filter(recipe => recipe.slug === slug)[0];
   }
 }
