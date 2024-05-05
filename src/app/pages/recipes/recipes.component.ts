@@ -12,7 +12,8 @@ import { map } from "rxjs/operators";
   styleUrls: ["./recipes.component.css"]
 })
 export class RecipesComponent implements OnInit {
-  recipesList: Recipe[];
+  allRecipes: Recipe[];
+  recipesToDisplay: Recipe[];
   recipeTags: RecipeTag[];
 
   constructor(
@@ -23,6 +24,7 @@ export class RecipesComponent implements OnInit {
 
   ngOnInit(): void {
     this.recipeTags = this.recipeService.findRecipeTags();
+    this.allRecipes = this.recipeService.findRecipes();
     const selectedTag = this.route.queryParams.pipe(map(param => param["tag"]));
     selectedTag
       .pipe(
@@ -35,7 +37,7 @@ export class RecipesComponent implements OnInit {
         })
       )
       .subscribe(recipes => {
-        this.recipesList = recipes;
+        this.recipesToDisplay = recipes;
       });
   }
 

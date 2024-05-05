@@ -7,7 +7,7 @@ tags:
 
 # Lambahakkbollur með Orzo
 
-Lambahakkbollur í Napólí-sósu með halloumi
+Lambahakkbollur í tómat-sósu með halloumi
 
 ## Hráefni
 
