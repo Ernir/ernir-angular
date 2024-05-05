@@ -1,6 +1,9 @@
 ---
 name: Sogan Dolma
 description: Nautakjötsfylltir laukar að bosneskum hætti
+tags:
+  - Langur tími
+  - Nautakjöt
 ---
 
 # Sogan Dolma
