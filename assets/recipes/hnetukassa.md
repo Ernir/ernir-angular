@@ -3,6 +3,7 @@ name: Hnetukássa
 description: Hnetusmjörs- og sætkartöflukássa
 tags:
   - Kássa
+  - Grænmetis
   - Vegan
 ---
 
