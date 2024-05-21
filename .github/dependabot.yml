@@ -9,8 +9,10 @@ updates:
         applies-to: version-updates
         patterns:
           - "@angular*"
-          - "rxjs"
-          - "karma"
+          - "rxjs*"
+          - "karma*"
+          - "jasmine*"
+          - "zone*"
         update-types:
           - "minor"
           - "patch"
