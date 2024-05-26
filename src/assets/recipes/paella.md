@@ -3,6 +3,7 @@ name: Paella
 description: Sjávarréttahrísgrjónamix
 tags:
   - Sjávarréttir
+  - Hrísgrjón
 ---
 
 # Paella

@@ -6,6 +6,7 @@ tags:
   - Langur tími
   - Nautakjöt
   - Svínakjöt
+  - Pasta
 ---
 
 # Kjötsósa
