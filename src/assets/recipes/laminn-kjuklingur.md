@@ -3,6 +3,8 @@ name: Laminn kjúklingur
 description: Kjúklingur með ætiþistlum og hvítvíni
 tags:
   - Kjúklingur
+  - Hrísgrjón
+
 ---
 
 # Laminn kjúklingur
