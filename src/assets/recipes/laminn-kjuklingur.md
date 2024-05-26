@@ -1,11 +1,13 @@
 ---
-name: Ætiþistlakjúklingur
+name: Laminn kjúklingur
 description: Kjúklingur með ætiþistlum og hvítvíni
 tags:
   - Kjúklingur
 ---
 
-# Kjúklingur með ætiþistlum
+# Laminn kjúklingur
+
+Kjúklingur með ætiþistlum og hvítvíni
 
 ## Hráefni
 
