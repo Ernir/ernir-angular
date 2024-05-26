@@ -5,6 +5,7 @@ tags:
   - Fljótlegt
   - Grænmetis
   - Ostur
+  - Pasta
 ---
 
 # Orzo með trufflum

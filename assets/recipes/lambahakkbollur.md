@@ -3,6 +3,7 @@ name: Lambahakkbollur með orzo
 description: Lambahakkbollur í Napólí-sósu með halloumi
 tags:
   - Lambakjöt
+  - Pasta
 ---
 
 # Lambahakkbollur með Orzo

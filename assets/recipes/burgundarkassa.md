@@ -6,6 +6,7 @@ tags:
   - Kássa
   - Langur tími
   - Nautakjöt
+  - Kartöflur
 ---
 
 # Búrgundarkássa
