@@ -4,6 +4,7 @@ description: "Rækjupasta fyrir hraðsuðupott"
 tags:
   - Sjávarréttir
   - Hraðsuðupottur
+  - Pasta
 ---
 
 # Rækjupasta
