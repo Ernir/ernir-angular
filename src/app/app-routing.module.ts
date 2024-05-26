@@ -10,7 +10,16 @@ const routes: Routes = [
     component: RecipeComponent
   },
   {
+    path: "uppskriftir/:slug",
+    component: RecipeComponent
+  },
+  {
     path: "recipes",
+    component: RecipesComponent,
+    title: "Ernir.net - Uppskriftir"
+  },
+  {
+    path: "uppskriftir",
     component: RecipesComponent,
     title: "Ernir.net - Uppskriftir"
   },
