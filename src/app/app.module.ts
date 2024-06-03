@@ -9,7 +9,7 @@ import { MarginNoteComponent } from "./fragments/margin-note/margin-note.compone
 import { RecipesComponent } from "./pages/recipes/recipes.component";
 import { RecipeComponent } from "./pages/recipes/recipe/recipe.component";
 import { MarkdownModule } from "ngx-markdown";
-import { HttpClient, HttpClientModule } from "@angular/common/http";
+import { HttpClient, provideHttpClient, withInterceptorsFromDi } from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -20,13 +20,8 @@ import { HttpClient, HttpClientModule } from "@angular/common/http";
     RecipesComponent,
     RecipeComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    MarkdownModule.forRoot({ loader: HttpClient })
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  imports: [BrowserModule, AppRoutingModule, MarkdownModule.forRoot({ loader: HttpClient })],
+  providers: [provideHttpClient(withInterceptorsFromDi())]
 })
 export class AppModule {}
