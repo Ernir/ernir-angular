@@ -8,7 +8,7 @@
     "watch": "npm run collect-recipes && ng build --watch --configuration development",
     "test": "ng test",
     "collect-recipes": "node scripts/recipe-collection.js",
-    "deploy": "npm run collect-recipes && ng deploy --dir=dist/ernir-angular/browser"
+    "deploy": "npm run collect-recipes && ng deploy --dir=dist/ernir-angular/browser --repo=git@github.com:Ernir/ernir-angular.git"
   },
   "private": true,
   "dependencies": {
