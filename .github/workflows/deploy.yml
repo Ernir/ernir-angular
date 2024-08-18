@@ -5,6 +5,9 @@ on:
     branches:
       - main
       - auto-deploy
+permissions:
+  contents: write
+  pull-requests: write
 jobs:
   run-build:
     runs-on: ubuntu-latest
