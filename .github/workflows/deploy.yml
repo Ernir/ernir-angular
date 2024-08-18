@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
+          repository: 'ernir/ernir-angular'
           token: ${{ secrets.ERNIR_ANGULAR_DEPLOY }}
       - uses: actions/setup-node@v4
         with:
