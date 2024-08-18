@@ -20,4 +20,4 @@ Run `npm run deploy` to collect static material and deploy the current branch to
 
 ## Format
 
-Run `npx prettier --write .` to format the codebase.
+Run `./format.sh` to format the codebase.
