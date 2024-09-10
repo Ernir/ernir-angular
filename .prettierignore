@@ -1,3 +1,4 @@
 .angular
 .idea
 dist
+src/assets/recipes/recipes.json
