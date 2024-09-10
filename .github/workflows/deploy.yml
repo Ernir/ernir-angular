@@ -22,5 +22,6 @@ jobs:
           token: ${{ secrets.ERNIR_ANGULAR_DEPLOY }}
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - run: npm install
-      - run: npm run deploy
+      - run: |
+          npm install
+          npm run deploy
