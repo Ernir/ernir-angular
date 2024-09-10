@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           npm install
-          ng deploy --dir=dist/ernir-angular/browser --repo=https://github.com/Ernir/ernir-angular.git --name=Ernir --email=e.ernir@gmail.com --cname=ernir.net
+          npm run deploy
