@@ -20,7 +20,7 @@
             "polyfills": ["src/polyfills.ts"],
             "tsConfig": "tsconfig.app.json",
             "assets": ["src/favicon.ico", "src/assets"],
-            "styles": ["src/styles.css", "src/assets/tufte-css/tufte.css"],
+            "styles": ["src/styles.css", "https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css"],
             "scripts": ["node_modules/marked/marked.min.js"],
             "browser": "src/main.ts"
           },

@@ -1,3 +1,0 @@
-[submodule "src/assets/tufte-css"]
-	path = src/assets/tufte-css
-	url = git@github.com:edwardtufte/tufte-css.git
