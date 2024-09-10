@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - auto-deploy
+      - auto-deploy-with-github-token
 jobs:
   run-build:
     runs-on: ubuntu-latest
