@@ -19,7 +19,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "latest"
-          token: ${{ secrets.ERNIR_ANGULAR_DEPLOY }}
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - run: |
