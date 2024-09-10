@@ -16,10 +16,10 @@ jobs:
         with:
           submodules: recursive
           repository: 'ernir/ernir-angular'
-          token: ${{ secrets.ERNIR_ANGULAR_DEPLOY }}
       - uses: actions/setup-node@v4
         with:
           node-version: "latest"
+          token: ${{ secrets.ERNIR_ANGULAR_DEPLOY }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: npm install
