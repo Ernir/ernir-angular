@@ -6,7 +6,7 @@ on:
       - main
       - auto-deploy
 jobs:
-  run-build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,4 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           npm install
+          npm run collect-recipes
+          npm run build
           npm run deploy
