@@ -4,6 +4,7 @@ description: Kjúklingur í rauðvíni á franskan máta.
 tags:
   - Kjúklingur
   - Langur tími
+  - Kartöflur
 ---
 
 # Hani í víni
