@@ -9,7 +9,7 @@ tags:
 
 # Hani í víni
 
-Kjúklingur í rauðvíni á franskan máta.
+Kjúklingur í rauðvíni á franskan máta. Með baunabelgjum í stað gulróta.
 
 ## Hráefni
 
