@@ -58,7 +58,7 @@ Takið til stóran pott og pönnu, og pott fyrir kartöflumúsina.
 4. Saxið laukinn og pressið hvítlaukinn meðan kjúklingurinn steikist.
 5. Steikið laukinn upp úr kjúklinga- og beikonfitunni í 7 mínútur. Bætið svo við hvítlauknum og steikið í mínútu til viðbótar.
 6. Færið laukinn til hliðar og steikið tómatpúrruna aðeins í pottinum svo hún verði dekkri og byrji að lykta. Hellið svo vínleginum sem hafði verið geymdur yfir og skrapið allt upp af botninum.
-7. Setjið kjúklinginn aftur í pottinn og drefið timjani yfir. Látið malla í 30 mínútur. (Hér er sniðugt að gera kartöflumús úr forsoðnum kartöflum.) Bætið perlulauknum við á síðustu 10 mínútunum.
+7. Setjið kjúklinginn aftur í pottinn og drefið timjani yfir. Látið malla í 25 mínútur. (Hér er sniðugt að gera kartöflumús úr forsoðnum kartöflum.) Bætið perlulauknum við á síðustu 10 mínútunum.
 8. Steikið sveppina í olíu í um 15 mínútur meðan kjúklingurinn mallar. Þegar sú steiking er hálfnuð, bætið baunabelgjunum við sveppina. Leggið sveppina og baunabelgina til hliðar þegar steikingunni er lokið.
 9. Blandið saman smjöri og hveiti meðan kjúklingurinn mallar. Þegar kjúklingurinn er soðinn, takið bitana úr soðinu og leggið til hliðar. Hrærið smjörhveitiblöndunni saman við soðið svo það þykkist. Smakkið til með salti og pipar.
 10. Bætið kjúklingnum, sveppunum, baunabelgjunum og beikoninu aftur í soðið og berið fram með kartöflumúsinni.
