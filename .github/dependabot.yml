@@ -12,7 +12,6 @@ updates:
           - "rxjs*"
           - "karma*"
           - "jasmine*"
-          - "zone*"
         update-types:
           - "minor"
           - "patch"
