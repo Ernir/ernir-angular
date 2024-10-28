@@ -6,7 +6,7 @@ tags:
   - Langur tími
 ---
 
-# Þurrkryddaðar svínarifjur
+# Heill kjúklingur
 
 ## Hráefni
 
