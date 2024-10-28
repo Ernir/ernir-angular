@@ -3,6 +3,7 @@ name: Hani í víni
 description: Kjúklingur í rauðvíni á franskan máta.
 tags:
   - Kjúklingur
+  - Mikill undirbúningur
   - Langur tími
   - Kartöflur
 ---
