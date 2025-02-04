@@ -45,5 +45,5 @@ Sjóðið vatn fyrir laukana.
 
 ## Athugasemdir
 
-- Ekki gera þetta fyrir gesti í fyrstu skiptin. Það er bölvað maus að kreista laukana án þess að þeir rifni, og hætt við að margir fari í klessu. Sömuleiðis mun þurfa að sníða til magn kjöts og þann fjölda laukhringja sem fást úr laukunum. 
+- Ekki gera þetta fyrir gesti í fyrstu skiptin. Það er bölvað maus að kreista laukana án þess að þeir rifni, og hætt við að margir fari í klessu. Sömuleiðis mun þurfa að sníða til magn kjöts og þann fjölda laukhringja sem fást úr laukunum.
 - Ef kjötið er of mikið má bara búa til bollur úr restinni og setja þær með fylltu laukunum. Ef laukhringirnir eru of margir, saxið þá bara og bætið við soðið.
