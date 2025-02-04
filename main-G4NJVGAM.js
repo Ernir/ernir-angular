@@ -330,7 +330,7 @@ Spaghett\xED.
 
 Beri\xF0 fram me\xF0 spaghett\xEDi.
 `,data:{name:"Kj\xF6ts\xF3sa",description:"Rag\xFA fyrir hra\xF0su\xF0upott",tags:["Hra\xF0su\xF0upottur","Langur t\xEDmi","Nautakj\xF6t","Sv\xEDnakj\xF6t","Pasta"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/kjotsosa.md"},{content:`
-# S\xE6tkart\xF6flu chorizo chili
+# Klass\xEDskt chil\xED
 
 Chili-k\xE1ssa me\xF0 hakki og n\xFDrnabaunum. Langur t\xEDmi en l\xEDti\xF0 vesen.
 

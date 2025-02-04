@@ -8,7 +8,7 @@ tags:
   - Langur tími
 ---
 
-# Sætkartöflu chorizo chili
+# Klassískt chilí
 
 Chili-kássa með hakki og nýrnabaunum. Langur tími en lítið vesen.
 
