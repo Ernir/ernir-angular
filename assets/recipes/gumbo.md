@@ -21,7 +21,7 @@ tags:
 - 1 búnt sellerí
 - 1 búnt vorlaukur
 - 1 búnt steinselja
-- 1 stk. laukur 
+- 1 stk. laukur
 - 3 geirar hvítlaukur
 - 2 msk cajun-krydd
 - 1.5L kjúklingasoð
@@ -51,14 +51,14 @@ Hægt er að gera rouxið fyrirfram og geyma í kæli í 3-5 daga.
 
 ## Undirbúningur - gúmbó
 
-1. Skerið selleríið og laukinn í teninga. 
-2. Skerið vorlaukinn og steinseljuna fínt. 
+1. Skerið selleríið og laukinn í teninga.
+2. Skerið vorlaukinn og steinseljuna fínt.
 3. Pressið hvítlaukinn.
 
 ## Eldun
 
 1. Skerið pylsurnar í sneiðar og steikið í stórum þykkbotna potti í 2-3 mínútur á hvorri hlið.
-2. Veiðið pylsurnar uppúr og leggið til hliðar. 
+2. Veiðið pylsurnar uppúr og leggið til hliðar.
 3. Hellið smá af kjúklingasoðinu í pottinn og skrapið upp það sem hefur brúnast, bætið svo við restinni af soðinu.
 4. Bætið grænmetinu og rouxinu við í pottinn og sjóðið í 5-7 mínútur eða þar til grænmetið hefur mýkst aðeins.
 5. Bætið cajun-kryddinu við.
