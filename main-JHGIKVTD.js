@@ -419,31 +419,6 @@ Beri\xF0 fram me\xF0 hr\xEDsgrj\xF3num og ma\xEDskornum.
 
 Geymist um 4 daga \xED k\xE6li \xED loku\xF0um umb\xFA\xF0um. Best daginn eftir.
 `,data:{name:"Klass\xEDskt chil\xED",description:"Chili-k\xE1ssa me\xF0 hakki og n\xFDrnabaunum",tags:["Sv\xEDnakj\xF6t","Nautakj\xF6t","K\xE1ssa","Langur t\xEDmi"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/klass\xEDskt-chili.md"},{content:`
-# K\xF3reskt sesamsalat
-
-## Hr\xE1efni
-
-- 200g gr\xE6nmeti - sp\xEDnat, baunasp\xEDrur e\xF0a hv\xEDtk\xE1l
-- 1 hv\xEDtlauksgeiri
-- 1 vorlaukur
-- 2 tsk sojas\xF3sa
-- 2 tsk ristu\xF0 sesamol\xEDa
-- 1 tsk ristu\xF0 sesamfr\xE6
-
-## Undirb\xFAningur
-
-1. Sj\xF3\xF0i\xF0 vatn \xED potti
-1. Saxi\xF0 vorlaukinn
-1. Pressi\xF0 hv\xEDtlaukinn
-
-## A\xF0fer\xF0
-
-1. Setji\xF0 gr\xE6nmeti\xF0 \xED pott me\xF0 sj\xF3\xF0andi vatni og sj\xF3\xF0i\xF0 \xED 1 m\xEDn\xFAtu. Helli\xF0 gr\xE6nmetinu \xED sigti og sn\xF6ggk\xE6li\xF0 til a\xF0 st\xF6\xF0va su\xF0una, t.d. me\xF0 rennandi kranavatni.<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">Blanch-a\xF0 \xED 1 m\xEDn\xFAtu, \xE1 \xFAtlensku</span>
-2. \xDEurrki\xF0 gr\xE6nmeti\xF0 me\xF0 \xFEeytivindu. Ef um sp\xEDnat er a\xF0 r\xE6\xF0a, kreisti\xF0 \xFEa\xF0 til a\xF0 n\xE1 meiri v\xF6kva \xFAr \xFEv\xED.
-3. F\xE6ri\xF0 \xED sk\xE1l og blandi\xF0 hv\xEDtlauk, vorlauk, sojas\xF3su, sesamol\xEDu og sesamfr\xE6jum saman vi\xF0. Hr\xE6ri\xF0 \xF6llu saman.
-
-Geymist ekki lengi \xED k\xE6li, en gott er a\xF0 gera salati\xF0 fyrr um daginn til a\xF0 leyfa gr\xE6nmetinu a\xF0 marinerast a\xF0eins.
-`,data:{name:"K\xF3reskt sesamsalat",description:"Salat me\xF0 sesamol\xEDu og sesamfr\xE6jum",tags:["Salat","Gr\xE6nmetis"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/koreskt-sesamsalat.md"},{content:`
 # Kj\xF6tkryddblanda
 
 ## Hr\xE1efni
@@ -647,6 +622,31 @@ Chili-k\xE1ssa me\xF0 s\xE6tum kart\xF6flum og baunum
 
 1. Beri\xF0 fram me\xF0 ferskum k\xF3r\xEDander og rifnum osti.
 `,data:{name:"S\xE6tkart\xF6flu chorizo chili",description:"Chili-k\xE1ssa me\xF0 s\xE6tum kart\xF6flum og baunum",tags:["Sv\xEDnakj\xF6t","K\xE1ssa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/saetkartoflu-chorizo-chili.md"},{content:`
+# Sigeumchi Namul
+
+## Hr\xE1efni
+
+- 200g sp\xEDnat<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">virkar l\xEDka vel me\xF0 baunasp\xEDrum e\xF0a hv\xEDtk\xE1li - sigemuchi er sp\xEDnat, namul er gr\xE6nmetisr\xE9tturinn</span>
+- 1 hv\xEDtlauksgeiri
+- 1 vorlaukur
+- 2 tsk sojas\xF3sa
+- 2 tsk ristu\xF0 sesamol\xEDa
+- 1 tsk ristu\xF0 sesamfr\xE6
+
+## Undirb\xFAningur
+
+1. Sj\xF3\xF0i\xF0 vatn \xED potti
+1. Saxi\xF0 vorlaukinn
+1. Pressi\xF0 hv\xEDtlaukinn
+
+## A\xF0fer\xF0
+
+1. Setji\xF0 sp\xEDnati\xF0 \xED pott me\xF0 sj\xF3\xF0andi vatni og sj\xF3\xF0i\xF0 \xED 1 m\xEDn\xFAtu. Helli\xF0 sp\xEDnatinu \xED sigti og sn\xF6ggk\xE6li\xF0 til a\xF0 st\xF6\xF0va su\xF0una, t.d. me\xF0 rennandi kranavatni.<label for="sn-2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-2" class="margin-toggle"/><span class="sidenote">Blanch-a\xF0 \xED 1 m\xEDn\xFAtu, \xE1 \xFAtlensku</span>
+2. \xDEurrki\xF0 sp\xEDnati\xF0 me\xF0 \xFEeytivindu og kreisti\xF0 \xFEa\xF0 til a\xF0 n\xE1 meiri v\xF6kva \xFAr \xFEv\xED.
+3. F\xE6ri\xF0 \xED sk\xE1l og blandi\xF0 hv\xEDtlauk, vorlauk, sojas\xF3su, sesamol\xEDu og sesamfr\xE6jum saman vi\xF0. Hr\xE6ri\xF0 \xF6llu saman.
+
+Geymist ekki lengi \xED k\xE6li, en gott er a\xF0 gera salati\xF0 fyrr um daginn til a\xF0 leyfa sp\xEDnatinu a\xF0 marinerast a\xF0eins.
+`,data:{name:"Sigeumchi Namul",description:"K\xF3reskt sp\xEDnatsalat me\xF0 sesamol\xEDu og sesamfr\xE6jum",tags:["Salat","Gr\xE6nmetis"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/sigeumchi-namul.md"},{content:`
 # S\xEDtr\xF3nuorzo
 
 Orzo me\xF0 s\xEDtr\xF3nu og sp\xEDnati fyrir hra\xF0su\xF0upott
