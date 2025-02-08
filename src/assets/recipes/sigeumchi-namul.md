@@ -8,6 +8,8 @@ tags:
 
 # Sigeumchi Namul
 
+Kóreskt spínatsalat með sesamolíu og sesamfræjum
+
 ## Hráefni
 
 - 200g spínat (virkar líka vel með baunaspírum eða hvítkáli - sigemuchi er spínat, namul er grænmetisrétturinn)
@@ -30,3 +32,5 @@ tags:
 3. Færið í skál og blandið hvítlauk, vorlauk, sojasósu, sesamolíu og sesamfræjum saman við. Hrærið öllu saman.
 
 Geymist ekki lengi í kæli, en gott er að gera salatið fyrr um daginn til að leyfa spínatinu að marinerast aðeins.
+
+Virkar mjög vel sem meðlæti með t.d. dömplingum.
