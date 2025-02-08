@@ -624,6 +624,8 @@ Chili-k\xE1ssa me\xF0 s\xE6tum kart\xF6flum og baunum
 `,data:{name:"S\xE6tkart\xF6flu chorizo chili",description:"Chili-k\xE1ssa me\xF0 s\xE6tum kart\xF6flum og baunum",tags:["Sv\xEDnakj\xF6t","K\xE1ssa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/saetkartoflu-chorizo-chili.md"},{content:`
 # Sigeumchi Namul
 
+K\xF3reskt sp\xEDnatsalat me\xF0 sesamol\xEDu og sesamfr\xE6jum
+
 ## Hr\xE1efni
 
 - 200g sp\xEDnat<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">virkar l\xEDka vel me\xF0 baunasp\xEDrum e\xF0a hv\xEDtk\xE1li - sigemuchi er sp\xEDnat, namul er gr\xE6nmetisr\xE9tturinn</span>
@@ -646,6 +648,8 @@ Chili-k\xE1ssa me\xF0 s\xE6tum kart\xF6flum og baunum
 3. F\xE6ri\xF0 \xED sk\xE1l og blandi\xF0 hv\xEDtlauk, vorlauk, sojas\xF3su, sesamol\xEDu og sesamfr\xE6jum saman vi\xF0. Hr\xE6ri\xF0 \xF6llu saman.
 
 Geymist ekki lengi \xED k\xE6li, en gott er a\xF0 gera salati\xF0 fyrr um daginn til a\xF0 leyfa sp\xEDnatinu a\xF0 marinerast a\xF0eins.
+
+Virkar mj\xF6g vel sem me\xF0l\xE6ti me\xF0 t.d. d\xF6mplingum.
 `,data:{name:"Sigeumchi Namul",description:"K\xF3reskt sp\xEDnatsalat me\xF0 sesamol\xEDu og sesamfr\xE6jum",tags:["Salat","Gr\xE6nmetis"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/sigeumchi-namul.md"},{content:`
 # S\xEDtr\xF3nuorzo
 
