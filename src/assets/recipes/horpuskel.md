@@ -40,9 +40,9 @@ Pressið hvítlaukinn og skerið sítrónuna í báta.
 2. Steikið hörpuskeljarnar í um 2 mínútur upp úr steikingarolíu á háum hita án þess að hreyfa þær til.
 3. Snúið hörpuskeljunum og steikið þær í um 2 mínútur á hinni hliðinni líka.
 4. Bætið smjörinu og hvítlauknum við og veltið hörpuskeljunum um í 1-2 mínútur meðan smjörið bráðnar.
-5. Fjarlægið pönnuna af hitanum og bætið við basilíkunni og sítrónusneiðunum.
+5. Fjarlægið pönnuna af hitanum og bætið við basilíkunni.
 
-Berið strax fram.
+Berið strax fram með sítrónusneiðum.
 
 ## Ábendingar
 
