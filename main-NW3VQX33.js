@@ -336,6 +336,49 @@ Mikilv\xE6gt er a\xF0 engiferi\xF0 s\xE9 pressa\xF0 e\xF0a rifi\xF0 sm\xE1tt, ef
 
 K\xE1ssan geymist \xE1g\xE6tlega \xED \xEDssk\xE1p. H\xFAn passar vel me\xF0 flatbrau\xF0i.
 `,data:{name:"Hnetuk\xE1ssa",description:"Hnetusmj\xF6rs- og s\xE6tkart\xF6fluk\xE1ssa",tags:["K\xE1ssa","Gr\xE6nmetis","Vegan"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/hnetukassa.md"},{content:`
+# H\xF6rpuskel
+
+Steikt h\xF6rpuskel me\xF0 basil\xEDku og s\xEDtr\xF3nu
+
+## Hr\xE1efni
+
+### H\xF6rpuskeljar
+
+- 8 h\xF6rpuskeljar
+- 2 tsk hveiti
+- Salt og pipar
+- Steikingarol\xEDa
+
+### Basil\xEDkusmj\xF6r
+
+- 3 msk smj\xF6r
+- 2 hv\xEDtlauksgeirar
+- Handfylli af ferskum basil\xEDkulaufum
+- H\xE1lf s\xEDtr\xF3na \xED snei\xF0um
+
+## Undirb\xFAningur
+
+\xDEurrki\xF0 h\xF6rpuskeljarnar eins og h\xE6gt er, t.d. me\xF0 \xFEv\xED a\xF0 l\xE1ta \xFE\xE6r standa \xE1 eldh\xFAspapp\xEDr \xED k\xE6li \xED nokkra klukkut\xEDma fyrir eldun.
+
+Forhiti\xF0 brei\xF0a p\xF6nnu, \xE1 h\xE1um hita.
+
+Pressi\xF0 hv\xEDtlaukinn og skeri\xF0 s\xEDtr\xF3nuna \xED b\xE1ta.
+
+## A\xF0fer\xF0
+
+1. Str\xE1i\xF0 hveitinu yfir \xFEurrar h\xF6rpuskeljarnar, salti\xF0 og pipri\xF0 b\xE1\xF0ar hli\xF0ar.
+2. Steiki\xF0 h\xF6rpuskeljarnar \xED um 2 m\xEDn\xFAtur upp \xFAr steikingarol\xEDu \xE1 h\xE1um hita \xE1n \xFEess a\xF0 hreyfa \xFE\xE6r til.
+3. Sn\xFAi\xF0 h\xF6rpuskeljunum og steiki\xF0 \xFE\xE6r \xED um 2 m\xEDn\xFAtur \xE1 hinni hli\xF0inni l\xEDka.
+4. B\xE6ti\xF0 smj\xF6rinu og hv\xEDtlauknum vi\xF0 og velti\xF0 h\xF6rpuskeljunum um \xED 1-2 m\xEDn\xFAtur me\xF0an smj\xF6ri\xF0 br\xE1\xF0nar.
+5. Fjarl\xE6gi\xF0 p\xF6nnuna af hitanum og b\xE6ti\xF0 vi\xF0 basil\xEDkunni og s\xEDtr\xF3nusnei\xF0unum.
+
+Beri\xF0 strax fram.
+
+## \xC1bendingar
+
+- \xDEa\xF0 er lykilatri\xF0i a\xF0 h\xF6rpuskeljarnar s\xE9u almennilega \xFEurrar fyrir steikingu, annars br\xFAnast \xFE\xE6r ekki almennilega. Hveiti\xF0 er til a\xF0 hj\xE1lpa til vi\xF0 a\xF0 \xFEurrka.
+- Pannan \xFEarf a\xF0 vera brei\xF0 m.t.t. fj\xF6lda h\xF6rpuskelja, svo hver h\xF6rpuskel f\xE1i n\xE6gt r\xFDmi.
+`,data:{name:"H\xF6rpuskel",description:"Steikt h\xF6rpuskel me\xF0 basil\xEDku og s\xEDtr\xF3nu",tags:["Flj\xF3tlegt","Sj\xE1varr\xE9ttir"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/horpuskel.md"},{content:`
 # Kj\xF6ts\xF3sa
 
 "Bolognese" kj\xF6ts\xF3sa fyrir hra\xF0su\xF0upott
