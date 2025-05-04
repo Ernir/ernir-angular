@@ -370,9 +370,9 @@ Pressi\xF0 hv\xEDtlaukinn og skeri\xF0 s\xEDtr\xF3nuna \xED b\xE1ta.
 2. Steiki\xF0 h\xF6rpuskeljarnar \xED um 2 m\xEDn\xFAtur upp \xFAr steikingarol\xEDu \xE1 h\xE1um hita \xE1n \xFEess a\xF0 hreyfa \xFE\xE6r til.
 3. Sn\xFAi\xF0 h\xF6rpuskeljunum og steiki\xF0 \xFE\xE6r \xED um 2 m\xEDn\xFAtur \xE1 hinni hli\xF0inni l\xEDka.
 4. B\xE6ti\xF0 smj\xF6rinu og hv\xEDtlauknum vi\xF0 og velti\xF0 h\xF6rpuskeljunum um \xED 1-2 m\xEDn\xFAtur me\xF0an smj\xF6ri\xF0 br\xE1\xF0nar.
-5. Fjarl\xE6gi\xF0 p\xF6nnuna af hitanum og b\xE6ti\xF0 vi\xF0 basil\xEDkunni og s\xEDtr\xF3nusnei\xF0unum.
+5. Fjarl\xE6gi\xF0 p\xF6nnuna af hitanum og b\xE6ti\xF0 vi\xF0 basil\xEDkunni.
 
-Beri\xF0 strax fram.
+Beri\xF0 strax fram me\xF0 s\xEDtr\xF3nusnei\xF0um.
 
 ## \xC1bendingar
 
