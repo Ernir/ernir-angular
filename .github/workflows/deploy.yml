@@ -17,4 +17,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - run: |
           npm install
+          npm install -g @angular/cli
           ng deploy --dir=dist/ernir-angular/browser --repo=https://github.com/Ernir/ernir-angular.git --name=Ernir --email=e.ernir@gmail.com --cname=ernir.net
