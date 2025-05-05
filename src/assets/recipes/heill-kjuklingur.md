@@ -24,7 +24,7 @@ Forhitið ofn í 220°C með gufu.
 ## Aðferð
 
 1. Skerið sítrónurnar í sneiðar og losið hvítlauksgeirana í sundur. Dreifið yfir loklaust mót ásamt kryddjurtunum.
-2. Skerið hrygginn úr kjúklingnum, frá rassi að hálsi. Fletjið hann út.
+2. Skerið hrygginn úr kjúklingnum, frá rassi að hálsi. Fletjið kjúklinginn út.
 3. Þurrkið kjúklinginn með eldhúsbréfi og stingið nokkur göt á húðina. Saltið kviðarholshliðina aðeins og leggið kjúklinginn á kryddjurtirnar með húðina upp. Hann ætti að liggja þannig að vængirnir séu upp við bringuna, en lærin glennt út.
 4. Dreifið smjörklípum yfir þurran kjúklinginn, saltið og piprið.
 5. Eldið í 30 mín við 220°C í gufu, kjöthitamælir við lærbein á að vera 74°C.
