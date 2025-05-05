@@ -4,6 +4,7 @@ description: Kóreskt spínatsalat með sesamolíu og sesamfræjum
 tags:
   - Salat
   - Grænmetis
+  - Vegan
 ---
 
 # Sigeumchi Namul
