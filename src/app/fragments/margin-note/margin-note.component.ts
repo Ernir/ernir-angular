@@ -3,7 +3,8 @@ import { Component, Input, OnInit } from "@angular/core";
 @Component({
   selector: "margin-note",
   templateUrl: "./margin-note.component.html",
-  styleUrls: ["./margin-note.component.css"]
+  styleUrls: ["./margin-note.component.css"],
+  standalone: false
 })
 export class MarginNoteComponent implements OnInit {
   @Input() id: string;

@@ -9,7 +9,8 @@ import { map } from "rxjs/operators";
 @Component({
   selector: "app-recipes",
   templateUrl: "./recipes.component.html",
-  styleUrls: ["./recipes.component.css"]
+  styleUrls: ["./recipes.component.css"],
+  standalone: false
 })
 export class RecipesComponent implements OnInit {
   allRecipes: Recipe[];
