@@ -11,7 +11,11 @@ tags:
 ## Hráefni
 
 - 1 kg beinlausar svínarifjur (eða heill rifjarekki, það virkar nákvæmlega eins nema það má helminga kryddið)
-- [Kryddblanda](/recipes/kryddblanda)
+- 2 msk salt
+- 2 msk pipar
+- 2 msk laukduft
+- 2 msk hvítlauksduft
+- 2 msk reykt paprikukrydd, má sleppa
 
 ## Undirbúningur
 
@@ -19,5 +23,6 @@ Forhitið ofn í 120°C.
 
 ## Aðferð
 
-1. Veltið hverri rifju fyrir sig lauslega upp úr kryddblöndunni. Leggið í stórt eldfast mót.
-2. Eldið í 2.5 klst við 120°C.
+1. Blandið kryddunum saman í skál
+2. Veltið hverri rifju fyrir sig lauslega upp úr kryddblöndunni. Leggið í stórt eldfast mót.
+3. Eldið í 2.5 klst við 120°C.
