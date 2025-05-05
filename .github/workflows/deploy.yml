@@ -6,17 +6,20 @@ on:
       - main
       - auto-deploy-with-github-token
 jobs:
-  run-build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "latest"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: |
+      - name: Prepare
+        run: |
           npm install
           npm install -g @angular/cli
           npm run collect-recipes
+      - name: Deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
           ng deploy --dir=dist/ernir-angular/browser --name=Ernir --email=e.ernir@gmail.com --cname=ernir.net
