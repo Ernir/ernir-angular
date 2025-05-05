@@ -17,9 +17,8 @@ jobs:
         run: |
           npm install
           npm install -g @angular/cli
-          npm run collect-recipes
       - name: Deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ng deploy --dir=dist/ernir-angular/browser --name=Ernir --email=e.ernir@gmail.com --cname=ernir.net
+          npm run deploy
