@@ -1,0 +1,23 @@
+name: deploy
+run-name: ${{ github.actor }} is deploying ErnirAngular
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "latest"
+      - name: Prepare
+        run: |
+          npm install
+          npm install -g @angular/cli
+      - name: Deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run deploy
