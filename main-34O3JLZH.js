@@ -272,25 +272,25 @@ Taki\xF0 til st\xF3ran pott og p\xF6nnu, og pott fyrir kart\xF6flum\xFAsina.
 ## Hr\xE1efni
 
 - 1.5 kg heill kj\xFAklingur
-- H\xE1lf uppskrift af [kryddbl\xF6ndu](/recipes/kryddblanda)
-- 1 b\xFAnt ferskt r\xF3smar\xEDn
-- 1 stk. s\xEDtr\xF3na
-- 1 stk. laukur
+- 2 stk. s\xEDtr\xF3na
+- 1 stk. hv\xEDtlaukur
+- 1 b\xFAnt ferskt r\xF3smar\xEDn og timjan
+- 2 msk mj\xFAkt smj\xF6r
+- Salt og pipar
 
 ## Undirb\xFAningur
 
-Forhiti\xF0 ofn \xED 175\xB0C.
+Forhiti\xF0 ofn \xED 220\xB0C me\xF0 gufu.
 
 ## A\xF0fer\xF0
 
-1. Raspi\xF0 b\xF6rkinn af s\xEDtr\xF3nunni og nuddi\xF0 \xE1 kj\xFAklinginn \xE1samt kryddbl\xF6nduni.
-2. Tro\xF0i\xF0 r\xF3smar\xEDninu og restinni af s\xEDtr\xF3nunni inn \xED kj\xFAklinginn.
-3. Leggi\xF0 kj\xFAklinginn \xE1 baki\xF0 \xED ofnpott me\xF0 loki.
-4. Skeri\xF0 laukinn \xED b\xE1ta og dreifi\xF0 \xED kringum kj\xFAklinginn.
-5. Eldi\xF0 \xED 1.5 klst<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">30 m\xEDn per 500g</span> vi\xF0 175\xB0C, kj\xF6thitam\xE6lir vi\xF0 l\xE6rbein \xE1 a\xF0 vera 74\xB0C.
-
-Beri\xF0 fram me\xF0 so\xF0inu \xFAr pottinum sem s\xF3su.
-`,data:{name:"Heill kj\xFAklingur",description:"Kj\xFAklingur me\xF0 s\xEDtr\xF3nu og r\xF3smar\xEDn",tags:["Kj\xFAklingur","Langur t\xEDmi"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/heill-kjuklingur.md"},{content:`
+1. Skeri\xF0 s\xEDtr\xF3nurnar \xED snei\xF0ar og losi\xF0 hv\xEDtlauksgeirana \xED sundur. Dreifi\xF0 yfir loklaust m\xF3t \xE1samt kryddjurtunum.
+2. Skeri\xF0 hrygginn \xFAr kj\xFAklingnum, fr\xE1 rassi a\xF0 h\xE1lsi. Fletji\xF0 kj\xFAklinginn \xFAt.
+3. \xDEurrki\xF0 kj\xFAklinginn me\xF0 eldh\xFAsbr\xE9fi og stingi\xF0 nokkur g\xF6t \xE1 h\xFA\xF0ina. Salti\xF0 kvi\xF0arholshli\xF0ina a\xF0eins og leggi\xF0 kj\xFAklinginn \xE1 kryddjurtirnar me\xF0 h\xFA\xF0ina upp. Hann \xE6tti a\xF0 liggja \xFEannig a\xF0 v\xE6ngirnir s\xE9u upp vi\xF0 bringuna, en l\xE6rin glennt \xFAt.
+4. Dreifi\xF0 smj\xF6rkl\xEDpum yfir \xFEurran kj\xFAklinginn, salti\xF0 og pipri\xF0.
+5. Eldi\xF0 \xED 30 m\xEDn vi\xF0 220\xB0C \xED gufu, kj\xF6thitam\xE6lir vi\xF0 l\xE6rbein \xE1 a\xF0 vera 74\xB0C.
+6. Hendi\xF0 kryddjurtunum og s\xEDtr\xF3nunni eftir eldun. Leyfi\xF0 a\xF0 hv\xEDla \xED 5-10 m\xEDn\xFAtur og beri\xF0 fram me\xF0 restinni af so\xF0inu sem s\xF3su.
+`,data:{name:"Heill kj\xFAklingur",description:"Kj\xFAklingur me\xF0 s\xEDtr\xF3nu og r\xF3smar\xEDn",tags:["Kj\xFAklingur","Gufuofn"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/heill-kjuklingur.md"},{content:`
 # Hnetuk\xE1ssa
 
 Hnetusmj\xF6rs- og s\xE6tkart\xF6fluk\xE1ssa
