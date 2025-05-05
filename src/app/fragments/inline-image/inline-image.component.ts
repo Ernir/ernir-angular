@@ -3,7 +3,8 @@ import { Component, Input, OnInit } from "@angular/core";
 @Component({
   selector: "inline-image",
   templateUrl: "./inline-image.component.html",
-  styleUrls: ["./inline-image.component.css"]
+  styleUrls: ["./inline-image.component.css"],
+  standalone: false
 })
 export class InlineImageComponent implements OnInit {
   @Input() file: string;
