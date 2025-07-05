@@ -5,6 +5,7 @@ tags:
   - Fljótlegt
   - Grænmetis
   - Ostur
+  - Sósa
 ---
 
 # Gráðostasósa
