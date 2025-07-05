@@ -211,7 +211,7 @@ Guacamole \xE1n t\xF3mata.
 1. Skeri\xF0 l\xE1rperurnar \xED tvennt, taki\xF0 steininn \xFAr og setji\xF0 \xED sk\xE1l. Stappi\xF0 \xFE\xE6r ni\xF0ur me\xF0 gaffli.
 2. B\xE6ti\xF0 lauknum og hv\xEDtlauknum \xFAt \xED l\xE1rperust\xF6ppuna.
 3. Smakki\xF0 til me\xF0 s\xFAraldinsafa, salti og ferskum k\xF3r\xEDander.
-`,data:{name:"Guacamole",description:"Guacamole \xE1n t\xF3mata",tags:["Gr\xE6nmetis","S\xF3sa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/guacamole.md"},{content:`
+`,data:{name:"Guacamole",description:"Guacamole \xE1n t\xF3mata",tags:["Gr\xE6nmetis","S\xF3sa","Vegan"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/guacamole.md"},{content:`
 # G\xFAmb\xF3
 
 ## Hr\xE1efni - roux
@@ -575,9 +575,9 @@ Sj\xE1varr\xE9ttahr\xEDsgrj\xF3namix
 1. L\xE1ti\xF0 su\xF0una koma upp og sj\xF3\xF0i\xF0 \xED 15 m\xEDn\xFAtur. Fylgist me\xF0 v\xF6kvamagninu og b\xE6ti\xF0 hv\xEDtv\xEDni vi\xF0 ef \xFEarf. Hr\xE6ri\xF0 svo ekki festist vi\xF0 botninn.
 1. B\xE6ti\xF0 vi\xF0 baununum og sj\xE1varr\xE9ttunum. Sj\xF3\xF0i\xF0 \xED 15 m\xEDn\xFAtur til vi\xF0b\xF3tar.
 `,data:{name:"Paella",description:"Sj\xE1varr\xE9ttahr\xEDsgrj\xF3namix",tags:["Sj\xE1varr\xE9ttir","Hr\xEDsgrj\xF3n"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/paella.md"},{content:`
-# Guacamole
+# Pico de Gallo
 
-Mexik\xF6nsk s\xF3sa.
+Mex\xEDk\xF6nsk s\xF3sa.
 
 ## Hr\xE1efni
 
@@ -594,7 +594,7 @@ Saxi\xF0 laukinn sm\xE1tt og leggi\xF0 hann \xED bleyti til a\xF0 taka mesta bit
 1. Skeri\xF0 t\xF3mata \xED litla bita, t.d. hvern \xFEeirra \xED fj\xF3ra og setji\xF0 \xED sk\xE1l.
 2. B\xE6ti\xF0 lauknum \xFAt \xED t\xF3matana.
 3. Smakki\xF0 til me\xF0 s\xFAraldinsafa, salti og ferskum k\xF3r\xEDander.
-`,data:{name:"Pico de Gallo",description:"Mexik\xF6nsk s\xF3sa",tags:["Gr\xE6nmetis","S\xF3sa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/pico-de-gallo.md"},{content:`
+`,data:{name:"Pico de Gallo",description:"Mexik\xF6nsk s\xF3sa",tags:["Gr\xE6nmetis","Vegan","S\xF3sa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/pico-de-gallo.md"},{content:`
 # R\xE6kjupasta
 
 Pasta me\xF0 r\xE6kjum fyrir hra\xF0su\xF0upott
