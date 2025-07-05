@@ -4,6 +4,7 @@ description: "Guacamole án tómata"
 tags:
   - Grænmetis
   - Sósa
+  - Vegan
 ---
 
 # Guacamole
