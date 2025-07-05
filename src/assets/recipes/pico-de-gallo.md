@@ -12,7 +12,7 @@ Mexikönsk sósa.
 
 ## Hráefni
 
-- 9 litlir tómatar 
+- 9 litlir tómatar
 - 1/4 laukur
 - Súraldinsafi (limesafi), salt og ferskur kóríander eftir smekk
 
