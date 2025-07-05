@@ -3,12 +3,13 @@ name: "Pico de Gallo"
 description: "Mexikönsk sósa"
 tags:
   - Grænmetis
+  - Vegan
   - Sósa
 ---
 
-# Guacamole
+# Pico de Gallo
 
-Mexikönsk sósa.
+Mexíkönsk sósa.
 
 ## Hráefni
 
