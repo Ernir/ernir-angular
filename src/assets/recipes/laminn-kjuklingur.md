@@ -4,6 +4,7 @@ description: Kjúklingur með ætiþistlum og hvítvíni
 tags:
   - Kjúklingur
   - Hrísgrjón
+  - Hvítvín
 ---
 
 # Laminn kjúklingur
