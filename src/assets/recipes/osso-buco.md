@@ -39,9 +39,9 @@ Hefðbundið er að nota gulrætur, en mér þykja þær vondar.
 ## Aðferð
 
 1. Þerrið kjötið með eldhúspappír, saltið og piprið báðar hliðar.
-2. Brúnið kjötið í hraðsuðupotti á steikingarstillingu í 5 mínútur á hvorri hlið, þar til það er brúnað og hefur fengið fallegan lit. Takið kjötið úr pottinum og setjið til hliðar.
+2. Brúnið kjötið í hraðsuðupotti á steikingarstillingu í um 2 mínútur á hvorri hlið svo það brúnist. Takið kjötið úr pottinum og setjið til hliðar.
 3. Setjið laukinn og hvítlaukinn í pottinn og steikið í 2 mínútur, þar til laukurinn er mjúkur.
-4. Bætið við hvítvíni og skrapið upp það sem hefur brúnast við botninn. Sjóðið vínið niður um helming.
+4. Bætið við hvítvíni og skrapið upp það sem hefur brúnast við botninn. Sjóðið vínið niður um svona helming.
 5. Bætið kjötinu aftur í pottinn, ásamt tómötunum, ítölsku kryddblöndunni og lárviðarlaufinu.
 6. Þrýstisjóðið í 60 mínútur. Losið þrýstinginn þegar suðunni er lokið.
 7. Gerið gremolata meðan kjötið sýður. Saxið steinseljuna, pressið hvítlaukinn og rífið sítrónubörkinn í skál. Hrærið saman.
