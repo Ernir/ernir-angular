@@ -19,7 +19,7 @@ Nautaskankar í tómatsósu. Góðir með kartöflumús.
 - 2 hvítlauksgeirar
 - Um 250mL hvítvín
 - 1 dós tómatar (um 400 g)
-- Ítölsk kryddblanda (oregano, basil, timjan, um 15g ef ferskt)
+- Ítölsk kryddblanda (oregano, basil, timjan, salvía, um 15g ef ferskt)
 - Lárviðarlauf
 - Salt og pipar
 
