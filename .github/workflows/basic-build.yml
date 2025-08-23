@@ -2,7 +2,7 @@ name: basic-build
 run-name: ${{ github.actor }} is building ErnirAngular
 on: [push]
 jobs:
-  basic-build:
+  run-build:
     name: basic-build
     runs-on: ubuntu-latest
     steps:
