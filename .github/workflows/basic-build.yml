@@ -1,6 +1,6 @@
 name: basic-build
 run-name: ${{ github.actor }} is building ErnirAngular
-on: [push]
+on: [push, pull_request]
 jobs:
   run-build:
     name: basic-build
