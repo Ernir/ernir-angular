@@ -25,6 +25,14 @@ jobs:
         run: |
           echo "Waiting for build to complete before auto-merge"
           exit 0
+      - name: Log workflow_run conclusion if not successful
+        if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion != 'success'
+        run: |
+          echo "Workflow was triggered by workflow_run, but conclusion was not 'success'."
+          echo "github.event_name: ${{ github.event_name }}"
+          echo "github.event.workflow_run.conclusion: ${{ github.event.workflow_run.conclusion }}"
+          echo "github.event.workflow_run.workflow_name: ${{ github.event.workflow_run.workflow_name }}"
+          echo "github.event.workflow_run.id: ${{ github.event.workflow_run.id }}"
       - name: Check build status and enable auto-merge
         if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success'
         run: |
