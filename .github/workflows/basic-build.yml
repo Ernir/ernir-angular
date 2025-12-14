@@ -1,10 +1,6 @@
 name: basic-build
 run-name: ${{ github.actor }} is building ErnirAngular
-on:
-  push:
-    branches: [main] # Only run on pushes to main
-  pull_request:
-    types: [opened, synchronize, reopened] # Run on PR events
+on: [push]
 jobs:
   run-build:
     name: basic-build
