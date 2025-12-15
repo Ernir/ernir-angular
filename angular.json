@@ -24,7 +24,6 @@
               "src/styles.css",
               "https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css"
             ],
-            "scripts": ["node_modules/marked/marked.min.js"],
             "browser": "src/main.ts"
           },
           "configurations": {
