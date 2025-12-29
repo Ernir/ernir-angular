@@ -2,8 +2,8 @@
 name: Shopska
 description: Balkanskt salat
 tags:
-- Grænmetis
-- Ostur
+  - Grænmetis
+  - Ostur
 ---
 
 # Shopska
@@ -26,11 +26,11 @@ Bæta má við ferskri basílíku.
 
 ## Aðferð
 
-1. Skerið tómata í litla tenginga 
-2. Skerið gúrku í litla tenginga 
+1. Skerið tómata í litla tenginga
+2. Skerið gúrku í litla tenginga
 3. Skera lauk í litla bita (steikingastærð)
 4. Ef basílíka er notuð er best að grófskera hana
 5. Blanda öllu saman með salti og ólífuolíu í breiðri skál eða á stórum diski.
-7. Rífið fetaostinn yfir.
+6. Rífið fetaostinn yfir.
 
 Berið strax fram. Það má geyma grænmetið (án salts og osts) í ísskáp í klukkutíma eða svo.
