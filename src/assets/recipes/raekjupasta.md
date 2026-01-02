@@ -10,7 +10,7 @@ tags:
 
 # Rækjupasta
 
-Pasta með rækjum fyrir hraðsuðupott
+Pasta með rækjum, hvítlauk og hvítvíni
 
 ## Hráefni
 

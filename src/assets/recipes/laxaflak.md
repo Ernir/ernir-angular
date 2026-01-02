@@ -6,7 +6,7 @@ tags:
   - Fljótlegt
 ---
 
-# Heill kjúklingur
+# Heilt laxaflak
 
 ## Hráefni
 
