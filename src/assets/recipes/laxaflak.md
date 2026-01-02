@@ -3,6 +3,7 @@ name: Laxaflak
 description: Lax í ofni með steinseljusmjöri
 tags:
   - Sjávarréttir
+  - Fljótlegt
 ---
 
 # Heill kjúklingur
