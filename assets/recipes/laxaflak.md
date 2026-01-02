@@ -30,4 +30,3 @@ tags:
 3. Smyrjið laxaflakið með kryddsmjörinu
 4. Eldið í heitum ofni í 15 mínútur, stillið svo á grillstillingu í 3 mínútur
 5. Berið strax fram með sítrónu til að kreista yfir
-  

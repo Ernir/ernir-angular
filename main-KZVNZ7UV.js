@@ -620,7 +620,6 @@ Beri\xF0 fram me\xF0 so\xF0num hr\xEDsgrj\xF3num.
 3. Smyrji\xF0 laxaflaki\xF0 me\xF0 kryddsmj\xF6rinu
 4. Eldi\xF0 \xED heitum ofni \xED 15 m\xEDn\xFAtur, stilli\xF0 svo \xE1 grillstillingu \xED 3 m\xEDn\xFAtur
 5. Beri\xF0 strax fram me\xF0 s\xEDtr\xF3nu til a\xF0 kreista yfir
-  
 `,data:{name:"Laxaflak",description:"Lax \xED ofni me\xF0 steinseljusmj\xF6ri",tags:["Sj\xE1varr\xE9ttir","Flj\xF3tlegt"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/laxaflak.md"},{content:`
 # Osso buco
 
