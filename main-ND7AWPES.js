@@ -596,7 +596,7 @@ Steiki\xF0 brau\xF0teningana, ef \xFEeir eru heimager\xF0ir.
 
 Beri\xF0 fram me\xF0 so\xF0num hr\xEDsgrj\xF3num.
 `,data:{name:"Laminn kj\xFAklingur",description:"Kj\xFAklingur me\xF0 \xE6ti\xFEistlum og hv\xEDtv\xEDni",tags:["Kj\xFAklingur","Hr\xEDsgrj\xF3n","Hv\xEDtv\xEDn"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/laminn-kjuklingur.md"},{content:`
-# Heill kj\xFAklingur
+# Heilt laxaflak
 
 ## Hr\xE1efni
 
@@ -620,6 +620,7 @@ Beri\xF0 fram me\xF0 so\xF0num hr\xEDsgrj\xF3num.
 3. Smyrji\xF0 laxaflaki\xF0 me\xF0 kryddsmj\xF6rinu
 4. Eldi\xF0 \xED heitum ofni \xED 15 m\xEDn\xFAtur, stilli\xF0 svo \xE1 grillstillingu \xED 3 m\xEDn\xFAtur
 5. Beri\xF0 strax fram me\xF0 s\xEDtr\xF3nu til a\xF0 kreista yfir
+  
 `,data:{name:"Laxaflak",description:"Lax \xED ofni me\xF0 steinseljusmj\xF6ri",tags:["Sj\xE1varr\xE9ttir","Flj\xF3tlegt"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/laxaflak.md"},{content:`
 # Osso buco
 
@@ -719,7 +720,7 @@ Saxi\xF0 laukinn sm\xE1tt og leggi\xF0 hann \xED bleyti til a\xF0 taka mesta bit
 `,data:{name:"Pico de Gallo",description:"Mexik\xF6nsk s\xF3sa",tags:["Gr\xE6nmetis","Vegan","S\xF3sa"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/pico-de-gallo.md"},{content:`
 # R\xE6kjupasta
 
-Pasta me\xF0 r\xE6kjum fyrir hra\xF0su\xF0upott
+Pasta me\xF0 r\xE6kjum, hv\xEDtlauk og hv\xEDtv\xEDni
 
 ## Hr\xE1efni
 
