@@ -596,6 +596,31 @@ Steiki\xF0 brau\xF0teningana, ef \xFEeir eru heimager\xF0ir.
 
 Beri\xF0 fram me\xF0 so\xF0num hr\xEDsgrj\xF3num.
 `,data:{name:"Laminn kj\xFAklingur",description:"Kj\xFAklingur me\xF0 \xE6ti\xFEistlum og hv\xEDtv\xEDni",tags:["Kj\xFAklingur","Hr\xEDsgrj\xF3n","Hv\xEDtv\xEDn"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/laminn-kjuklingur.md"},{content:`
+# Heill kj\xFAklingur
+
+## Hr\xE1efni
+
+- Heilt laxaflak<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">a.m.k. 1kg</span>
+- 3 msk mj\xFAkt smj\xF6r
+- 2 hv\xEDtlauksgeirar
+- 1msk steinselja<label for="sn-2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-2" class="margin-toggle"/><span class="sidenote">alls konar a\xF0rar jurtir virka l\xEDka, t.d. dill e\xF0a graslaukur</span>
+- Salt og pipar
+- S\xEDtr\xF3na til hli\xF0ar
+
+## Undirb\xFAningur
+
+- Forhiti\xF0 ofn \xED 200\xB0C.
+- Taki\xF0 smj\xF6ri\xF0 \xFAr \xEDssk\xE1pnum
+- Saxi\xF0 steinseljuna og pressi\xF0 hv\xEDtlaukinn
+
+## A\xF0fer\xF0
+
+1. \xDEurrki\xF0 laxaflaki\xF0 me\xF0 eldh\xFAsbr\xE9fi, salti\xF0
+2. Blandi\xF0 saman smj\xF6ri, steinselju og pipar
+3. Smyrji\xF0 laxaflaki\xF0 me\xF0 kryddsmj\xF6rinu
+4. Eldi\xF0 \xED heitum ofni \xED 15 m\xEDn\xFAtur, stilli\xF0 svo \xE1 grillstillingu \xED 3 m\xEDn\xFAtur
+5. Beri\xF0 strax fram me\xF0 s\xEDtr\xF3nu til a\xF0 kreista yfir
+`,data:{name:"Laxaflak",description:"Lax \xED ofni me\xF0 steinseljusmj\xF6ri",tags:["Sj\xE1varr\xE9ttir","Flj\xF3tlegt"]},isEmpty:!1,excerpt:"",path:"src/assets/recipes/laxaflak.md"},{content:`
 # Osso buco
 
 Nautaskankar \xED t\xF3mats\xF3su. G\xF3\xF0ir me\xF0 kart\xF6flum\xFAs.
