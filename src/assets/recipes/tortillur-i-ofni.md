@@ -12,10 +12,10 @@ tags:
 
 - 4 tortillur
 - 250g nautahakk
-- 1stk laukur
-- 1 stk paprika
+- 1  laukur
+- 1  paprika
 - 200g baunir (til dæmis nýrnabaunir eða svartar baunir)
-- 1/2 stk. jalapenó
+- 1/2 jalapenó
 - 150g rifinn ostur
 - Kúmín, paprikukrydd, salt
 
