@@ -1,9 +1,10 @@
 import { Injectable } from "@angular/core";
 import { Recipe } from "./models/recipe";
 import { RecipeFile } from "./models/recipeFile";
-// @ts-ignore
-import recipesJson from "../../../assets/recipes/recipes.json";
+import recipesData from "../../../assets/recipes/recipes.json";
 import { RecipeTag } from "./models/recipetag";
+
+const recipesJson: RecipeFile[] = recipesData;
 
 @Injectable({
   providedIn: "root"
@@ -58,7 +59,7 @@ export class RecipesService {
     return recipeTags.sort((a, b) => a.name.localeCompare(b.name));
   }
 
-  getRecipeBySlug(slug: String): Recipe {
-    return this.findRecipes().filter(recipe => recipe.slug === slug)[0];
+  getRecipeBySlug(slug: string): Recipe | undefined {
+    return this.findRecipes().find(recipe => recipe.slug === slug);
   }
 }
