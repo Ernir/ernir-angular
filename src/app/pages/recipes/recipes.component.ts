@@ -4,7 +4,7 @@ import { RecipesService } from "./recipes.service";
 import { Recipe } from "./models/recipe";
 import { RecipeTag } from "./models/recipetag";
 import { ActivatedRoute } from "@angular/router";
-import { map } from "rxjs/operators";
+import { map, Observable } from "rxjs";
 
 @Component({
   selector: "app-recipes",
@@ -14,7 +14,7 @@ import { map } from "rxjs/operators";
 })
 export class RecipesComponent implements OnInit {
   allRecipes: Recipe[];
-  recipesToDisplay: Recipe[];
+  recipesToDisplay$: Observable<Recipe[]>;
   recipeTags: RecipeTag[];
 
   constructor(
@@ -26,20 +26,12 @@ export class RecipesComponent implements OnInit {
   ngOnInit(): void {
     this.recipeTags = this.recipeService.findRecipeTags();
     this.allRecipes = this.recipeService.findRecipes();
-    const selectedTag = this.route.queryParams.pipe(map(param => param["tag"]));
-    selectedTag
-      .pipe(
-        map(tag => {
-          if (tag) {
-            return this.recipeService.findActiveRecipes(tag);
-          } else {
-            return this.recipeService.findRecipes();
-          }
-        })
+    this.recipesToDisplay$ = this.route.queryParams.pipe(
+      map(params => params["tag"]),
+      map(tag =>
+        tag ? this.recipeService.findActiveRecipes(tag) : this.recipeService.findRecipes()
       )
-      .subscribe(recipes => {
-        this.recipesToDisplay = recipes;
-      });
+    );
   }
 
   openRecipe(path: string) {

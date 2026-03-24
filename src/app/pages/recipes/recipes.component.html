@@ -15,7 +15,7 @@
       }
     </p>
     <p><a routerLink="/recipes/">Allar</a> ({{ allRecipes.length }})</p>
-    @for (recipe of recipesToDisplay; track recipe) {
+    @for (recipe of recipesToDisplay$ | async; track recipe) {
       <div>
         <h2>
           <a routerLink="/recipes/{{ recipe.slug }}">{{ recipe.name }}</a>
