@@ -12,8 +12,8 @@ tags:
 
 - 4 tortillur
 - 250g nautahakk
-- 1  laukur
-- 1  paprika
+- 1 laukur
+- 1 paprika
 - 200g baunir (til dæmis nýrnabaunir eða svartar baunir)
 - 1/2 jalapenó
 - 150g rifinn ostur
@@ -26,7 +26,7 @@ Borið fram með sýrðum rjóma og [guacamole](https://ernir.net/recipes/guacam
 1. Forhitið ofn í 200°C.
 2. Skerið paprikuna í litla bita.
 3. Skerið laukinn í litla bita (hægt að gera meðan paprikan steikist).
-3. Saxið jalapenóið.
+4. Saxið jalapenóið.
 
 ## Aðferð
 
