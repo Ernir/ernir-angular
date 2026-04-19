@@ -1,12 +1,12 @@
 ---
-name: Lax með kasjuhnetum
+name: Lax með kasjúhnetum
 description: Lax með kasjúhnetu- og sinnepshjúpi
 tags:
   - Fljótlegt
   - Sjávarréttir
 ---
 
-# Lax með kasjuhnetum
+# Lax með kasjúhnetum
 
 Lax með kasjúhnetu- og sinnepshjúpi.
 
